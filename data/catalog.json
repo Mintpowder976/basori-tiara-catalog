@@ -1,0 +1,6425 @@
+{
+  "schema_version": 1,
+  "catalog": {
+    "title": "马剃天爱星制品图鉴",
+    "scope": "《败犬女主太多了！》中明确包含马剃天爱星的官方实体制品",
+    "updated_at": "2026-10-01",
+    "status": "expanded_verified_catalog"
+  },
+  "character": {
+    "id": "basori-tiara",
+    "name_ja": "馬剃天愛星",
+    "name_zh": "马剃天爱星",
+    "name_en": "Basori Tiara",
+    "aliases": [
+      "馬剃 天愛星",
+      "天愛星",
+      "Basori Tiara"
+    ]
+  },
+  "items": [
+    {
+      "id": "gagaga-J20260034",
+      "name_ja": "『負けヒロインが多すぎる！』9巻 書影タペストリー",
+      "name_zh": "小说第9卷封面挂毯",
+      "category": "tapestry",
+      "campaign": "小说第9卷",
+      "campaign_year": 2026,
+      "manufacturer": "GAGAGA SHOP ONLINE",
+      "variant": "第9卷封面",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 3300,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gagaga-J20260034.jpg",
+          "role": "product",
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20260034-01.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "GAGAGA SHOP ONLINE",
+          "phase": "general_sale",
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20260034/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20260034/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "小说原作",
+        "封面",
+        "群像"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gagaga-J20260036",
+      "name_ja": "『負けヒロインが多すぎる！』9巻 口絵タペストリー ～いざ祇園祭～",
+      "name_zh": "小说第9卷彩页挂毯 前往祗园祭",
+      "category": "tapestry",
+      "campaign": "小说第9卷",
+      "campaign_year": 2026,
+      "manufacturer": "GAGAGA SHOP ONLINE",
+      "variant": "祇园祭",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 3300,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gagaga-J20260036.jpg",
+          "role": "product",
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20260036-01.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "GAGAGA SHOP ONLINE",
+          "phase": "general_sale",
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20260036/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20260036/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "小说原作",
+        "彩页",
+        "祇园祭"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gagaga-J20260040",
+      "name_ja": "『負けヒロインが多すぎる！』9巻 アクリルキーホルダーセット",
+      "name_zh": "小说第9卷亚克力挂件套装",
+      "category": "acrylic_keychain",
+      "campaign": "小说第9卷",
+      "campaign_year": 2026,
+      "manufacturer": "GAGAGA SHOP ONLINE",
+      "variant": "套装内含天爱星",
+      "sale_format": {
+        "type": "set",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 1650,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gagaga-J20260040.jpg",
+          "role": "product",
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20260040-01.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "GAGAGA SHOP ONLINE",
+          "phase": "general_sale",
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20260040/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20260040/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "小说原作",
+        "套装"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gagaga-J20260042",
+      "name_ja": "アクリルスタンド 志喜屋夢子＆馬剃天愛星",
+      "name_zh": "志喜屋梦子＆马剃天爱星亚克力立牌",
+      "category": "acrylic_stand",
+      "campaign": "GAGAGA SHOP 2026",
+      "campaign_year": 2026,
+      "manufacturer": "GAGAGA SHOP ONLINE",
+      "variant": "志喜屋梦子＆马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 2420,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gagaga-J20260042.jpg",
+          "role": "product",
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20260042-01.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "GAGAGA SHOP ONLINE",
+          "phase": "general_sale",
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20260042/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20260042/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "志喜屋梦子",
+        "双人"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gagaga-J20260027",
+      "name_ja": "『負けヒロインが多すぎる！』×『お散歩は季節をまとって。』 アクリルキーホルダー 馬剃天愛星",
+      "name_zh": "《散步披上季节》联动亚克力挂件",
+      "category": "acrylic_keychain",
+      "campaign": "お散歩は季節をまとって。",
+      "campaign_year": 2026,
+      "manufacturer": "GAGAGA SHOP ONLINE",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 1430,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gagaga-J20260027.jpg",
+          "role": "product",
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20260027-01.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "GAGAGA SHOP ONLINE",
+          "phase": "general_sale",
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20260027/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20260027/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "跨作品联动",
+        "单人"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gagaga-J2026001401",
+      "name_ja": "『負けヒロインが多すぎる！』書影アクリルキーホルダー（1）",
+      "name_zh": "小说封面亚克力挂件（1）",
+      "category": "acrylic_keychain",
+      "campaign": "书影系列",
+      "campaign_year": 2026,
+      "manufacturer": "GAGAGA SHOP ONLINE",
+      "variant": "封面图（1）",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 660,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gagaga-J2026001401.jpg",
+          "role": "product",
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20260001-01.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "GAGAGA SHOP ONLINE",
+          "phase": "general_sale",
+          "url": "https://lifetunes-mall.jp/shop/g/gJ2026001401/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://lifetunes-mall.jp/shop/g/gJ2026001401/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "小说原作",
+        "封面"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gagaga-J20250040",
+      "name_ja": "竹島水族館コラボ ランダム缶バッジ",
+      "name_zh": "竹岛水族馆联动随机徽章 马剃天爱星款",
+      "category": "can_badge",
+      "campaign": "竹岛水族馆",
+      "campaign_year": 2025,
+      "manufacturer": "GAGAGA SHOP ONLINE",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 9
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 500,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gagaga-J20250040.jpg",
+          "role": "lineup",
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20250040-01.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "竹岛水族馆",
+          "phase": "event_sale",
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20250040/"
+        },
+        {
+          "seller": "GAGAGA SHOP ONLINE",
+          "phase": "after_sale",
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20250040/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20250040/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "水族馆",
+        "随机",
+        "联动"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gagaga-J20250043",
+      "name_ja": "竹島水族館コラボ アクリルキーホルダーセット C",
+      "name_zh": "竹岛水族馆联动亚克力挂件套装 C",
+      "category": "acrylic_keychain",
+      "campaign": "竹岛水族馆",
+      "campaign_year": 2025,
+      "manufacturer": "GAGAGA SHOP ONLINE",
+      "variant": "C 套装内含天爱星",
+      "sale_format": {
+        "type": "set",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 2420,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gagaga-J20250043.jpg",
+          "role": "product",
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20250043-01.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "GAGAGA SHOP ONLINE",
+          "phase": "after_sale",
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20250043/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20250043/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "水族馆",
+        "套装",
+        "联动"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gagaga-J20250046",
+      "name_ja": "竹島水族館コラボ ステッカーセット C",
+      "name_zh": "竹岛水族馆联动贴纸套装 C",
+      "category": "sticker",
+      "campaign": "竹岛水族馆",
+      "campaign_year": 2025,
+      "manufacturer": "GAGAGA SHOP ONLINE",
+      "variant": "C 套装内含天爱星",
+      "sale_format": {
+        "type": "set",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 1100,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gagaga-J20250046.jpg",
+          "role": "product",
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20250046-01.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "GAGAGA SHOP ONLINE",
+          "phase": "after_sale",
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20250046/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20250046/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "水族馆",
+        "套装",
+        "联动"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gagaga-J20250055",
+      "name_ja": "竹島水族館コラボ アクリルスタンド 馬剃天愛星",
+      "name_zh": "竹岛水族馆联动亚克力立牌",
+      "category": "acrylic_stand",
+      "campaign": "竹岛水族馆",
+      "campaign_year": 2025,
+      "manufacturer": "GAGAGA SHOP ONLINE",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 1980,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gagaga-J20250055.jpg",
+          "role": "product",
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20250055-01.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "GAGAGA SHOP ONLINE",
+          "phase": "after_sale",
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20250055/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20250055/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "水族馆",
+        "单人",
+        "联动"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gagaga-J20250056",
+      "name_ja": "竹島水族館コラボ クリアファイル A",
+      "name_zh": "竹岛水族馆联动透明文件夹 A",
+      "category": "clear_file",
+      "campaign": "竹岛水族馆",
+      "campaign_year": 2025,
+      "manufacturer": "GAGAGA SHOP ONLINE",
+      "variant": "A 图案包含天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "A4",
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 660,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gagaga-J20250056.jpg",
+          "role": "product",
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20250056-01.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "GAGAGA SHOP ONLINE",
+          "phase": "after_sale",
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20250056/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20250056/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "水族馆",
+        "群像",
+        "联动"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gagaga-J20250031",
+      "name_ja": "『負けヒロインが多すぎる！8』アクリルキーホルダーセット",
+      "name_zh": "小说第8卷亚克力挂件套装",
+      "category": "acrylic_keychain",
+      "campaign": "小说第8卷",
+      "campaign_year": 2025,
+      "manufacturer": "GAGAGA SHOP ONLINE",
+      "variant": "套装内含天爱星",
+      "sale_format": {
+        "type": "set",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 2200,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gagaga-J20250031.jpg",
+          "role": "product",
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20250031-01.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "GAGAGA SHOP ONLINE",
+          "phase": "general_sale",
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20250031/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20250031/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "小说原作",
+        "套装"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gagaga-J20250010",
+      "name_ja": "『負けヒロインが多すぎる！8』アクリルスタンド 馬剃天愛星",
+      "name_zh": "小说第8卷马剃天爱星亚克力立牌",
+      "category": "acrylic_stand",
+      "campaign": "小说第8卷",
+      "campaign_year": 2025,
+      "manufacturer": "GAGAGA SHOP ONLINE",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 1980,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gagaga-J20250010.jpg",
+          "role": "product",
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20250010-01.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "GAGAGA SHOP ONLINE",
+          "phase": "general_sale",
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20250010/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20250010/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "小说原作",
+        "单人"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gagaga-J20250026",
+      "name_ja": "『負けヒロインが多すぎる！8』書影B2タペストリー",
+      "name_zh": "小说第8卷封面 B2 挂毯",
+      "category": "tapestry",
+      "campaign": "小说第8卷",
+      "campaign_year": 2025,
+      "manufacturer": "GAGAGA SHOP ONLINE",
+      "variant": "第8卷封面",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "B2",
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 3300,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gagaga-J20250026.jpg",
+          "role": "product",
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20250026-01.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "GAGAGA SHOP ONLINE",
+          "phase": "general_sale",
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20250026/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20250026/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "小说原作",
+        "封面"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gagaga-J20250028",
+      "name_ja": "『負けヒロインが多すぎる！8』アクリルアートパネル ～新たな扉～",
+      "name_zh": "小说第8卷亚克力艺术板 新的门",
+      "category": "acrylic_art",
+      "campaign": "小说第8卷",
+      "campaign_year": 2025,
+      "manufacturer": "GAGAGA SHOP ONLINE",
+      "variant": "新たな扉",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 3850,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gagaga-J20250028.jpg",
+          "role": "product",
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20250028-01.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "GAGAGA SHOP ONLINE",
+          "phase": "general_sale",
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20250028/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20250028/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "小说原作",
+        "群像"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gagaga-J20230060",
+      "name_ja": "『負けヒロインが多すぎる！6』アクリルアートパネル",
+      "name_zh": "小说第6卷亚克力艺术板",
+      "category": "acrylic_art",
+      "campaign": "小说第6卷",
+      "campaign_year": 2023,
+      "manufacturer": "GAGAGA SHOP ONLINE",
+      "variant": "第6卷彩页",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 3850,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gagaga-J20230060.jpg",
+          "role": "product",
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20230060.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "GAGAGA SHOP ONLINE",
+          "phase": "general_sale",
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20230060/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20230060/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "小说原作",
+        "彩页"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gagaga-J20230020",
+      "name_ja": "『負けヒロインが多すぎる！4』アクリルアートパネル ～ナマモノ×ナンタイカ？～",
+      "name_zh": "小说第4卷亚克力艺术板",
+      "category": "acrylic_art",
+      "campaign": "小说第4卷",
+      "campaign_year": 2023,
+      "manufacturer": "GAGAGA SHOP ONLINE",
+      "variant": "ナマモノ×ナンタイカ？",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 3850,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gagaga-J20230020.jpg",
+          "role": "product",
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20230020-01.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "GAGAGA SHOP ONLINE",
+          "phase": "general_sale",
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20230020/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20230020/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "小说原作",
+        "彩页"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gagaga-J20220053",
+      "name_ja": "『負けヒロインが多すぎる！3』アクリルアートパネル ～生徒会役員ども～",
+      "name_zh": "小说第3卷亚克力艺术板 学生会干部们",
+      "category": "acrylic_art",
+      "campaign": "小说第3卷",
+      "campaign_year": 2022,
+      "manufacturer": "GAGAGA SHOP ONLINE",
+      "variant": "学生会",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 3850,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gagaga-J20220053.jpg",
+          "role": "product",
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20220044-05.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "GAGAGA SHOP ONLINE",
+          "phase": "general_sale",
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20220053/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20220053/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "小说原作",
+        "学生会"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gagaga-J20220039",
+      "name_ja": "『負けヒロインが多すぎる！3』アクリルキーホルダーセット",
+      "name_zh": "小说第3卷亚克力挂件套装",
+      "category": "acrylic_keychain",
+      "campaign": "小说第3卷",
+      "campaign_year": 2022,
+      "manufacturer": "GAGAGA SHOP ONLINE",
+      "variant": "套装内含天爱星",
+      "sale_format": {
+        "type": "set",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 2750,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gagaga-J20220039.jpg",
+          "role": "product",
+          "source_url": "https://lifetunes-mall.jp/img/3030/goods/S/J20220039-01.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "GAGAGA SHOP ONLINE",
+          "phase": "general_sale",
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20220039/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://lifetunes-mall.jp/shop/g/gJ20220039/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "小说原作",
+        "套装"
+      ],
+      "notes": null
+    },
+    {
+      "id": "amnibus-93967",
+      "name_ja": "描き下ろし 馬剃 天愛星 駅員ver. 第2弾 特大アクリルスタンド",
+      "name_zh": "JR东海站员第2弹特大亚克力立牌",
+      "category": "acrylic_stand",
+      "campaign": "JR东海 推し旅 站员ver. 第2弹",
+      "campaign_year": 2025,
+      "manufacturer": "arma bianca",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "本体约 27.3×10.1cm，底座约 9.7×7.5cm",
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 3300,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/amnibus-93967.jpg",
+          "role": "product",
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20250930145632_68db711013ec71.88329269.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "AMNIBUS",
+          "phase": "general_sale",
+          "url": "https://amnibus.com/products/detail/93967"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://amnibus.com/products/detail/93967",
+          "type": "manufacturer",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "JR东海",
+        "站员",
+        "新规绘制"
+      ],
+      "notes": null
+    },
+    {
+      "id": "amnibus-93970",
+      "name_ja": "描き下ろし 馬剃 天愛星 駅員ver. 第2弾 BIGアクリルスタンド",
+      "name_zh": "JR东海站员第2弹 BIG 亚克力立牌",
+      "category": "acrylic_stand",
+      "campaign": "JR东海 推し旅 站员ver. 第2弹",
+      "campaign_year": 2025,
+      "manufacturer": "arma bianca",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "本体约 16×4.5cm，底座约 7.3×3.5cm",
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 1980,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/amnibus-93970.jpg",
+          "role": "product",
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20250930150638_68db736eb53231.30405129.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "AMNIBUS",
+          "phase": "general_sale",
+          "url": "https://amnibus.com/products/detail/93970"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://amnibus.com/products/detail/93970",
+          "type": "manufacturer",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "JR东海",
+        "站员",
+        "新规绘制"
+      ],
+      "notes": null
+    },
+    {
+      "id": "amnibus-93957",
+      "name_ja": "描き下ろし 馬剃 天愛星 駅員ver. 第2弾 2連ワイヤーBIGアクリルキーホルダー",
+      "name_zh": "JR东海站员第2弹双联大型亚克力挂件",
+      "category": "acrylic_keychain",
+      "campaign": "JR东海 推し旅 站员ver. 第2弹",
+      "campaign_year": 2025,
+      "manufacturer": "arma bianca",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "约 80×50mm",
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 1320,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/amnibus-93957.jpg",
+          "role": "product",
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20250930151111_68db747f64f7e3.97202209.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "AMNIBUS",
+          "phase": "general_sale",
+          "url": "https://amnibus.com/products/detail/93957"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://amnibus.com/products/detail/93957",
+          "type": "manufacturer",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "JR东海",
+        "站员",
+        "新规绘制"
+      ],
+      "notes": null
+    },
+    {
+      "id": "amnibus-93944",
+      "name_ja": "描き下ろし 馬剃 天愛星 駅員ver. 第2弾 ダイカットステッカー",
+      "name_zh": "JR东海站员第2弹异形贴纸",
+      "category": "sticker",
+      "campaign": "JR东海 推し旅 站员ver. 第2弹",
+      "campaign_year": 2025,
+      "manufacturer": "arma bianca",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "约 11.4×8.2cm",
+        "material": "纸、PP"
+      },
+      "release_date": null,
+      "list_price_yen": 550,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/amnibus-93944.jpg",
+          "role": "product",
+          "source_url": "https://cdn.amnibus.com/upload/save_image/20250930151506_68db756a1bade2.54152390.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "AMNIBUS",
+          "phase": "general_sale",
+          "url": "https://amnibus.com/products/detail/93944"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://amnibus.com/products/detail/93944",
+          "type": "manufacturer",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "JR东海",
+        "站员",
+        "新规绘制"
+      ],
+      "notes": null
+    },
+    {
+      "id": "neogate-yumekawa-badge",
+      "name_ja": "トレーディング缶バッジ 《ゆめかわver.》 馬剃天愛星",
+      "name_zh": "梦幻可爱版随机徽章",
+      "category": "can_badge",
+      "campaign": "ゆめかわフェア in アニメイト",
+      "campaign_year": 2026,
+      "manufacturer": "NEO GATE",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 5
+      },
+      "spec": {
+        "size": "直径 57mm",
+        "material": "金属、纸、PP"
+      },
+      "release_date": "2026-10-10",
+      "list_price_yen": 440,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/neogate-yumekawa-01.webp",
+          "role": "lineup",
+          "source_url": "https://www.neogate.jp/wp-content/uploads/makeine_goods_image01.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アニメイト",
+          "phase": "event_presale",
+          "url": "https://www.neogate.jp/makeine_goods/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.neogate.jp/makeine_goods/",
+          "type": "manufacturer",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "梦幻可爱",
+        "随机",
+        "新规绘制"
+      ],
+      "notes": "BOX 5个装 2200日元"
+    },
+    {
+      "id": "neogate-yumekawa-clear-card",
+      "name_ja": "トレーディングクリアカード 《ゆめかわver.》 馬剃天愛星",
+      "name_zh": "梦幻可爱版随机透明卡",
+      "category": "card",
+      "campaign": "ゆめかわフェア in アニメイト",
+      "campaign_year": 2026,
+      "manufacturer": "NEO GATE",
+      "variant": "马剃天爱星图案",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 10
+      },
+      "spec": {
+        "size": "约 63×89mm",
+        "material": "PP"
+      },
+      "release_date": "2026-10-10",
+      "list_price_yen": 440,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/neogate-yumekawa-02.webp",
+          "role": "lineup",
+          "source_url": "https://www.neogate.jp/wp-content/uploads/makeine_goods_image02.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アニメイト",
+          "phase": "event_presale",
+          "url": "https://www.neogate.jp/makeine_goods/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.neogate.jp/makeine_goods/",
+          "type": "manufacturer",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "梦幻可爱",
+        "随机",
+        "透明卡"
+      ],
+      "notes": "BOX 10枚装 4400日元"
+    },
+    {
+      "id": "neogate-yumekawa-stand",
+      "name_ja": "アクリルスタンド 《ゆめかわver.》 馬剃天愛星",
+      "name_zh": "梦幻可爱版亚克力立牌",
+      "category": "acrylic_stand",
+      "campaign": "ゆめかわフェア in アニメイト",
+      "campaign_year": 2026,
+      "manufacturer": "NEO GATE",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 5
+      },
+      "spec": {
+        "size": "本体约 86×150mm 以内",
+        "material": "アクリル"
+      },
+      "release_date": "2026-10-10",
+      "list_price_yen": 1980,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/neogate-yumekawa-03.webp",
+          "role": "lineup",
+          "source_url": "https://www.neogate.jp/wp-content/uploads/makeine_goods_image03.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アニメイト",
+          "phase": "event_presale",
+          "url": "https://www.neogate.jp/makeine_goods/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.neogate.jp/makeine_goods/",
+          "type": "manufacturer",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "梦幻可爱",
+        "单人",
+        "新规绘制"
+      ],
+      "notes": null
+    },
+    {
+      "id": "neogate-yumekawa-keychain",
+      "name_ja": "アクリルキーホルダー 《ゆめかわver.》 馬剃天愛星",
+      "name_zh": "梦幻可爱版亚克力挂件",
+      "category": "acrylic_keychain",
+      "campaign": "ゆめかわフェア in アニメイト",
+      "campaign_year": 2026,
+      "manufacturer": "NEO GATE",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 5
+      },
+      "spec": {
+        "size": "约 70×70mm",
+        "material": "亚克力、金属"
+      },
+      "release_date": "2026-10-10",
+      "list_price_yen": 715,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/neogate-yumekawa-04.webp",
+          "role": "lineup",
+          "source_url": "https://www.neogate.jp/wp-content/uploads/makeine_goods_image04.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アニメイト",
+          "phase": "event_presale",
+          "url": "https://www.neogate.jp/makeine_goods/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.neogate.jp/makeine_goods/",
+          "type": "manufacturer",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "梦幻可爱",
+        "单人",
+        "新规绘制"
+      ],
+      "notes": null
+    },
+    {
+      "id": "neogate-yumekawa-big-badge",
+      "name_ja": "BIGホログラム缶バッジ 《ゆめかわver.》 馬剃天愛星",
+      "name_zh": "梦幻可爱版 BIG 镭射徽章",
+      "category": "can_badge",
+      "campaign": "ゆめかわフェア in アニメイト",
+      "campaign_year": 2026,
+      "manufacturer": "NEO GATE",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 5
+      },
+      "spec": {
+        "size": "直径 76mm",
+        "material": "金属、纸、PET"
+      },
+      "release_date": "2026-10-10",
+      "list_price_yen": 660,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/neogate-yumekawa-05.webp",
+          "role": "lineup",
+          "source_url": "https://www.neogate.jp/wp-content/uploads/makeine_goods_image05.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アニメイト",
+          "phase": "event_presale",
+          "url": "https://www.neogate.jp/makeine_goods/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.neogate.jp/makeine_goods/",
+          "type": "manufacturer",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "梦幻可爱",
+        "镭射",
+        "单人"
+      ],
+      "notes": null
+    },
+    {
+      "id": "neogate-yumekawa-clear-file",
+      "name_ja": "A4クリアファイル 《ゆめかわver.》",
+      "name_zh": "梦幻可爱版 A4 透明文件夹",
+      "category": "clear_file",
+      "campaign": "ゆめかわフェア in アニメイト",
+      "campaign_year": 2026,
+      "manufacturer": "NEO GATE",
+      "variant": "群像图案包含天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 1
+      },
+      "spec": {
+        "size": "219×310mm",
+        "material": "PP"
+      },
+      "release_date": "2026-10-10",
+      "list_price_yen": 495,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/neogate-yumekawa-06.webp",
+          "role": "product",
+          "source_url": "https://www.neogate.jp/wp-content/uploads/makeine_goods_image06.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アニメイト",
+          "phase": "event_presale",
+          "url": "https://www.neogate.jp/makeine_goods/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.neogate.jp/makeine_goods/",
+          "type": "manufacturer",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "梦幻可爱",
+        "群像"
+      ],
+      "notes": null
+    },
+    {
+      "id": "neogate-yumekawa-panel",
+      "name_ja": "ダイカットアクリルパネル 《ゆめかわver.》 馬剃天愛星",
+      "name_zh": "梦幻可爱版异形亚克力面板",
+      "category": "acrylic_art",
+      "campaign": "ゆめかわフェア in アニメイト",
+      "campaign_year": 2026,
+      "manufacturer": "NEO GATE",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 5
+      },
+      "spec": {
+        "size": "约 194×150mm 以内",
+        "material": "亚克力、金属"
+      },
+      "release_date": "2026-10-10",
+      "list_price_yen": 3300,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/neogate-yumekawa-07.webp",
+          "role": "lineup",
+          "source_url": "https://www.neogate.jp/wp-content/uploads/makeine_goods_image07.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アニメイト",
+          "phase": "event_presale",
+          "url": "https://www.neogate.jp/makeine_goods/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.neogate.jp/makeine_goods/",
+          "type": "manufacturer",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "梦幻可爱",
+        "单人",
+        "新规绘制"
+      ],
+      "notes": null
+    },
+    {
+      "id": "neogate-yumekawa-postcards",
+      "name_ja": "ポストカードセット 《ゆめかわver.》",
+      "name_zh": "梦幻可爱版明信片套装",
+      "category": "card",
+      "campaign": "ゆめかわフェア in アニメイト",
+      "campaign_year": 2026,
+      "manufacturer": "NEO GATE",
+      "variant": "6枚套装内含天爱星",
+      "sale_format": {
+        "type": "set",
+        "total_variants": 6
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2026-10-10",
+      "list_price_yen": null,
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "images": [
+        {
+          "path": "images/items/neogate-yumekawa-08.webp",
+          "role": "product",
+          "source_url": "https://www.neogate.jp/wp-content/uploads/makeine_goods_image08.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アニメイト",
+          "phase": "event_presale",
+          "url": "https://www.neogate.jp/makeine_goods/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.neogate.jp/makeine_goods/",
+          "type": "manufacturer",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "梦幻可爱",
+        "套装",
+        "群像"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tosyo-winter-stand-tiara",
+      "name_ja": "アクリルフィギュアスタンド・馬剃天愛星_冬制服",
+      "name_zh": "冬制服亚克力人物立牌",
+      "category": "acrylic_stand",
+      "campaign": "冬制服",
+      "campaign_year": 2025,
+      "manufacturer": "TOSYO / キャラ印",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 1760,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/tosyo-winter-stand-tiara.jpg",
+          "role": "product",
+          "source_url": "https://d1bdgtbdniw5kz.cloudfront.net/img/goods/L/CS9983402141.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "TOSYO GOODS STORE",
+          "phase": "general_sale",
+          "url": "https://tosyo-goods.jp/collections/charain_makeine"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://tosyo-goods.jp/collections/charain_makeine",
+          "type": "manufacturer",
+          "checked_at": "2026-10-01"
+        },
+        {
+          "url": "https://www.shop.post.japanpost.jp/shop/g/gCS9983402141/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "冬制服",
+        "单人"
+      ],
+      "notes": "资料图待补"
+    },
+    {
+      "id": "tosyo-winter-keychain-tiara",
+      "name_ja": "アクリルキーホルダー・馬剃天愛星_冬制服",
+      "name_zh": "冬制服亚克力挂件",
+      "category": "acrylic_keychain",
+      "campaign": "冬制服",
+      "campaign_year": 2025,
+      "manufacturer": "TOSYO / キャラ印",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 1100,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/tosyo-winter-keychain-tiara.jpg",
+          "role": "product",
+          "source_url": "https://d1bdgtbdniw5kz.cloudfront.net/img/goods/L/CS9983402153.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "TOSYO GOODS STORE",
+          "phase": "general_sale",
+          "url": "https://tosyo-goods.jp/collections/charain_makeine"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://tosyo-goods.jp/collections/charain_makeine",
+          "type": "manufacturer",
+          "checked_at": "2026-10-01"
+        },
+        {
+          "url": "https://www.shop.post.japanpost.jp/shop/g/gCS9983402153/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "冬制服",
+        "单人"
+      ],
+      "notes": "资料图待补"
+    },
+    {
+      "id": "tosyo-winter-stamp-tiara",
+      "name_ja": "アクリルスタンプ・馬剃天愛星_冬制服",
+      "name_zh": "冬制服亚克力印章",
+      "category": "stationery",
+      "campaign": "冬制服",
+      "campaign_year": 2025,
+      "manufacturer": "TOSYO / キャラ印",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 1650,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/tosyo-winter-stamp-tiara.jpg",
+          "role": "product",
+          "source_url": "https://d1bdgtbdniw5kz.cloudfront.net/img/goods/L/CS9983402165.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "TOSYO GOODS STORE",
+          "phase": "general_sale",
+          "url": "https://tosyo-goods.jp/collections/charain_makeine"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://tosyo-goods.jp/collections/charain_makeine",
+          "type": "manufacturer",
+          "checked_at": "2026-10-01"
+        },
+        {
+          "url": "https://www.shop.post.japanpost.jp/shop/g/gCS9983402165/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "冬制服",
+        "文具"
+      ],
+      "notes": "资料图待补"
+    },
+    {
+      "id": "tosyo-winter-bookmarker-tiara",
+      "name_ja": "ブックマーカー・馬剃天愛星_冬制服",
+      "name_zh": "冬制服金属书签",
+      "category": "stationery",
+      "campaign": "冬制服",
+      "campaign_year": 2025,
+      "manufacturer": "TOSYO / キャラ印",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 1980,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/tosyo-winter-bookmarker-tiara.jpg",
+          "role": "product",
+          "source_url": "https://d1bdgtbdniw5kz.cloudfront.net/img/goods/L/CS9983402178.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "TOSYO GOODS STORE",
+          "phase": "general_sale",
+          "url": "https://tosyo-goods.jp/collections/charain_makeine"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://tosyo-goods.jp/collections/charain_makeine",
+          "type": "manufacturer",
+          "checked_at": "2026-10-01"
+        },
+        {
+          "url": "https://www.shop.post.japanpost.jp/shop/g/gCS9983402178/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "冬制服",
+        "书签"
+      ],
+      "notes": "资料图待补"
+    },
+    {
+      "id": "tosyo-coaster-tiara",
+      "name_ja": "白雲石コースター・馬剃天愛星",
+      "name_zh": "马剃天爱星白云石杯垫",
+      "category": "tableware",
+      "campaign": "キャラ印 线稿系列",
+      "campaign_year": 2025,
+      "manufacturer": "TOSYO / キャラ印",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "白云石"
+      },
+      "release_date": null,
+      "list_price_yen": 1320,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/tosyo-coaster-tiara.jpg",
+          "role": "product",
+          "source_url": "https://d1bdgtbdniw5kz.cloudfront.net/img/goods/L/CS9983402129.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "TOSYO GOODS STORE",
+          "phase": "general_sale",
+          "url": "https://tosyo-goods.jp/collections/charain_makeine"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://tosyo-goods.jp/collections/charain_makeine",
+          "type": "manufacturer",
+          "checked_at": "2026-10-01"
+        },
+        {
+          "url": "https://www.shop.post.japanpost.jp/shop/g/gCS9983402129/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "线稿",
+        "杯垫"
+      ],
+      "notes": "资料图待补"
+    },
+    {
+      "id": "tosyo-mug-tiara",
+      "name_ja": "マグカップ・馬剃天愛星",
+      "name_zh": "马剃天爱星马克杯",
+      "category": "tableware",
+      "campaign": "キャラ印 线稿系列",
+      "campaign_year": 2025,
+      "manufacturer": "TOSYO / キャラ印",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "直径 80×H95mm",
+        "material": "陶瓷"
+      },
+      "release_date": "2025-11-29",
+      "list_price_yen": 1980,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/tosyo-mug-tiara.jpg",
+          "role": "product",
+          "source_url": "https://d1bdgtbdniw5kz.cloudfront.net/img/goods/L/CS9983402126.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "精文馆书店",
+          "phase": "store_sale",
+          "url": "https://tosyo-goods.jp/products/tmugcmho0012"
+        },
+        {
+          "seller": "TOSYO GOODS STORE",
+          "phase": "general_sale",
+          "url": "https://tosyo-goods.jp/products/tmugcmho0012"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://tosyo-goods.jp/products/tmugcmho0012",
+          "type": "manufacturer",
+          "checked_at": "2026-10-01"
+        },
+        {
+          "url": "https://www.shop.post.japanpost.jp/shop/g/gCS9983402126/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "线稿",
+        "餐具"
+      ],
+      "notes": "商品代码 TMUGCMHO0012；资料图待补"
+    },
+    {
+      "id": "thechara-valentine-stand-tiara",
+      "name_ja": "デカアクリルスタンド 馬剃天愛星 バレンタイン ver.",
+      "name_zh": "情人节版大型亚克力立牌",
+      "category": "acrylic_stand",
+      "campaign": "バレンタイン ver.",
+      "campaign_year": 2026,
+      "manufacturer": "コンテンツシード / THEキャラ",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "全高约 180mm 以内",
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 2200,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-valentine-stand-tiara.jpg",
+          "role": "product",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271417_69784a5236669.jpg&width=1200&height=630"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ゲーマーズ",
+          "phase": "event_presale",
+          "url": "https://collabo-cafe.com/events/collabo/makeine-valentine-pop-up-store-gamers2026/"
+        },
+        {
+          "seller": "THEキャラ",
+          "phase": "general_sale",
+          "url": "https://www.the-chara.com/view/item/000000088322"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.the-chara.com/view/item/000000088322",
+          "type": "manufacturer",
+          "checked_at": "2026-10-01"
+        },
+        {
+          "url": "https://www.gamers.co.jp/pn/pd/10870407/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "情人节",
+        "新规绘制",
+        "单人"
+      ],
+      "notes": "商品代码 0_4570179858598；资料图待补"
+    },
+    {
+      "id": "thechara-valentine-keychain-tiara",
+      "name_ja": "ホログラムアクリルキーホルダー 馬剃天愛星 バレンタイン ver.",
+      "name_zh": "情人节版镭射亚克力挂件",
+      "category": "acrylic_keychain",
+      "campaign": "バレンタイン ver.",
+      "campaign_year": 2026,
+      "manufacturer": "コンテンツシード / THEキャラ",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 990,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-valentine-keychain-tiara.jpg",
+          "role": "product",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271415_697849e50c89a.jpg&width=1200&height=630"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ゲーマーズ",
+          "phase": "event_presale",
+          "url": "https://collabo-cafe.com/events/collabo/makeine-valentine-pop-up-store-gamers2026/"
+        },
+        {
+          "seller": "THEキャラ",
+          "phase": "general_sale",
+          "url": "https://www.the-chara.com/view/search?page=2&search_category=ct3"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.the-chara.com/view/search?page=2&search_category=ct3",
+          "type": "manufacturer",
+          "checked_at": "2026-10-01"
+        },
+        {
+          "url": "https://www.gamers.co.jp/pn/pd/10870399/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "情人节",
+        "镭射",
+        "单人"
+      ],
+      "notes": "资料图待补"
+    },
+    {
+      "id": "thechara-valentine-microfiber-tiara",
+      "name_ja": "マイクロファイバー 馬剃天愛星 バレンタイン ver.",
+      "name_zh": "情人节版超细纤维布",
+      "category": "fabric_goods",
+      "campaign": "バレンタイン ver.",
+      "campaign_year": 2026,
+      "manufacturer": "コンテンツシード / THEキャラ",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "超细纤维"
+      },
+      "release_date": null,
+      "list_price_yen": 825,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-valentine-microfiber-tiara.jpg",
+          "role": "product",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271419_69784acc097af.jpg&width=1200&height=630"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "THEキャラ",
+          "phase": "general_sale",
+          "url": "https://www.the-chara.com/view/search?page=2&search_category=ct3"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.the-chara.com/view/search?page=2&search_category=ct3",
+          "type": "manufacturer",
+          "checked_at": "2026-10-01"
+        },
+        {
+          "url": "https://www.gamers.co.jp/pn/pd/10870416/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "情人节",
+        "新规绘制",
+        "单人"
+      ],
+      "notes": "资料图待补"
+    },
+    {
+      "id": "thechara-valentine-tapestry-tiara",
+      "name_ja": "特大タペストリー 馬剃天愛星 バレンタイン ver.",
+      "name_zh": "情人节版特大挂毯",
+      "category": "tapestry",
+      "campaign": "バレンタイン ver.",
+      "campaign_year": 2026,
+      "manufacturer": "コンテンツシード / THEキャラ",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 8800,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-valentine-tapestry-tiara.jpg",
+          "role": "product",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271427_69784cc0c73a0.jpg&width=1200&height=630"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "THEキャラ",
+          "phase": "general_sale",
+          "url": "https://www.the-chara.com/view/search?page=2&search_category=ct3"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.the-chara.com/view/search?page=2&search_category=ct3",
+          "type": "manufacturer",
+          "checked_at": "2026-10-01"
+        },
+        {
+          "url": "https://www.gamers.co.jp/pn/pd/10870426/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "情人节",
+        "新规绘制",
+        "单人"
+      ],
+      "notes": "资料图待补"
+    },
+    {
+      "id": "thechara-pale-stand-tiara",
+      "name_ja": "デカアクリルスタンド PALE TONE series 馬剃天愛星 TSUWABUKI FES ver.",
+      "name_zh": "TSUWABUKI FES 淡色系列大型亚克力立牌",
+      "category": "acrylic_stand",
+      "campaign": "TSUWABUKI FES PALE TONE",
+      "campaign_year": 2026,
+      "manufacturer": "コンテンツシード / THEキャラ",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 2200,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-pale-stand-tiara.jpg",
+          "role": "product",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06181258_6a336cf3d1124.jpg&width=1200&height=630"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "THEキャラ",
+          "phase": "after_sale",
+          "url": "https://www.the-chara.com/view/search?page=5&search_category=ct2923"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.the-chara.com/view/search?page=5&search_category=ct2923",
+          "type": "manufacturer",
+          "checked_at": "2026-10-01"
+        },
+        {
+          "url": "https://www.gamers.co.jp/pn/pd/10907454/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "TSUWABUKI FES",
+        "PALE TONE",
+        "单人"
+      ],
+      "notes": "资料图待补"
+    },
+    {
+      "id": "thechara-pale-keychain-tiara",
+      "name_ja": "SNS風アクリルキーホルダー PALE TONE series 馬剃天愛星 TSUWABUKI FES ver.",
+      "name_zh": "TSUWABUKI FES 淡色系列 SNS 风亚克力挂件",
+      "category": "acrylic_keychain",
+      "campaign": "TSUWABUKI FES PALE TONE",
+      "campaign_year": 2026,
+      "manufacturer": "コンテンツシード / THEキャラ",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 1375,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-pale-keychain-tiara.jpg",
+          "role": "product",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06181251_6a336b4d4daa3.jpg&width=1200&height=630"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "THEキャラ",
+          "phase": "after_sale",
+          "url": "https://www.the-chara.com/view/search?page=5&search_category=ct2923"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.the-chara.com/view/search?page=5&search_category=ct2923",
+          "type": "manufacturer",
+          "checked_at": "2026-10-01"
+        },
+        {
+          "url": "https://www.gamers.co.jp/pn/pd/10907447/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "TSUWABUKI FES",
+        "PALE TONE",
+        "SNS风"
+      ],
+      "notes": "资料图待补"
+    },
+    {
+      "id": "thechara-pale-microfiber-tiara",
+      "name_ja": "マイクロファイバー PALE TONE series 馬剃天愛星 TSUWABUKI FES ver.",
+      "name_zh": "TSUWABUKI FES 淡色系列超细纤维布",
+      "category": "fabric_goods",
+      "campaign": "TSUWABUKI FES PALE TONE",
+      "campaign_year": 2026,
+      "manufacturer": "コンテンツシード / THEキャラ",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "超细纤维"
+      },
+      "release_date": null,
+      "list_price_yen": 825,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-pale-microfiber-tiara.jpg",
+          "role": "product",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06181312_6a3370175c9d5.jpg&width=1200&height=630"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "THEキャラ",
+          "phase": "after_sale",
+          "url": "https://www.the-chara.com/view/search?page=5&search_category=ct2923"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.the-chara.com/view/search?page=5&search_category=ct2923",
+          "type": "manufacturer",
+          "checked_at": "2026-10-01"
+        },
+        {
+          "url": "https://www.gamers.co.jp/pn/pd/10907464/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "TSUWABUKI FES",
+        "PALE TONE",
+        "单人"
+      ],
+      "notes": "资料图待补"
+    },
+    {
+      "id": "keyth-kemomimi-stand-tiara",
+      "name_ja": "アクリルスタンド 馬剃天愛星 けもみみパーカー",
+      "name_zh": "兽耳连帽衫亚克力立牌",
+      "category": "acrylic_stand",
+      "campaign": "けもみみパーカー",
+      "campaign_year": 2026,
+      "manufacturer": "Key-th / カーテン魂",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 1210,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/keyth-kemomimi-stand-tiara.jpg",
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4580883060064_1_1780052727.jpg&width=400&height=400&square=1"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Key-th / カーテン魂",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/pn/pd/3496857/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.animate-onlineshop.jp/pn/pd/3496857/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "兽耳",
+        "连帽衫"
+      ],
+      "notes": null
+    },
+    {
+      "id": "keyth-kemomimi-keychain-tiara",
+      "name_ja": "アクリルキーホルダー 馬剃天愛星 けもみみパーカー",
+      "name_zh": "兽耳连帽衫亚克力挂件",
+      "category": "acrylic_keychain",
+      "campaign": "けもみみパーカー",
+      "campaign_year": 2026,
+      "manufacturer": "Key-th / カーテン魂",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 990,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/keyth-kemomimi-keychain-tiara.jpg",
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4580883060149_1_1780052717.jpg&width=400&height=400&square=1"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Key-th / カーテン魂",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/pn/pd/3496865/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.animate-onlineshop.jp/pn/pd/3496865/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "兽耳",
+        "连帽衫"
+      ],
+      "notes": null
+    },
+    {
+      "id": "keyth-kemomimi-block-tiara",
+      "name_ja": "ダイカットアクリルブロック 馬剃天愛星 けもみみパーカー",
+      "name_zh": "兽耳连帽衫异形亚克力砖",
+      "category": "acrylic_art",
+      "campaign": "けもみみパーカー",
+      "campaign_year": 2026,
+      "manufacturer": "Key-th / カーテン魂",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 990,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/keyth-kemomimi-block-tiara.jpg",
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4571608539972_1_1780052721.jpg&width=400&height=400&square=1"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Key-th / カーテン魂",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/pn/pd/3496849/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.animate-onlineshop.jp/pn/pd/3496849/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "兽耳",
+        "连帽衫"
+      ],
+      "notes": null
+    },
+    {
+      "id": "csfront-09-sticker-tiara",
+      "name_ja": "ステッカー /09 馬剃天愛星",
+      "name_zh": "CS.FRONT /09 贴纸",
+      "category": "sticker",
+      "campaign": "CS.FRONT",
+      "campaign_year": 2026,
+      "manufacturer": "CS.FRONT",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 330,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/csfront-09-sticker-tiara.jpg",
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4582689112701_1_1770289512.jpg&width=400&height=400&square=1"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "CS.FRONT",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/pn/pd/3395390/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.animate-onlineshop.jp/pn/pd/3395390/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "09号",
+        "单人"
+      ],
+      "notes": null
+    },
+    {
+      "id": "csfront-09-shaker-tiara",
+      "name_ja": "シャカシャカキーホルダー /09 馬剃天愛星",
+      "name_zh": "CS.FRONT /09 摇摇挂件",
+      "category": "acrylic_keychain",
+      "campaign": "CS.FRONT",
+      "campaign_year": 2026,
+      "manufacturer": "CS.FRONT",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 1650,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/csfront-09-shaker-tiara.jpg",
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4582689112619_1_1770289504.jpg&width=400&height=400&square=1"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "CS.FRONT",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/pn/pd/3395381/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.animate-onlineshop.jp/pn/pd/3395381/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "09号",
+        "单人"
+      ],
+      "notes": null
+    },
+    {
+      "id": "csfront-09-diorama-tiara",
+      "name_ja": "アクリルジオラマ /09 馬剃天愛星",
+      "name_zh": "CS.FRONT /09 亚克力场景",
+      "category": "acrylic_art",
+      "campaign": "CS.FRONT",
+      "campaign_year": 2026,
+      "manufacturer": "CS.FRONT",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 1980,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/csfront-09-diorama-tiara.jpg",
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4582689112527_1_1770289513.jpg&width=400&height=400&square=1"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "CS.FRONT",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/pn/pd/3395372/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.animate-onlineshop.jp/pn/pd/3395372/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "09号",
+        "单人"
+      ],
+      "notes": null
+    },
+    {
+      "id": "csfront-09-passcase-tiara",
+      "name_ja": "レザーパスケース /09 馬剃天愛星",
+      "name_zh": "CS.FRONT /09 皮革卡套",
+      "category": "accessory",
+      "campaign": "CS.FRONT",
+      "campaign_year": 2026,
+      "manufacturer": "CS.FRONT",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 990,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/csfront-09-passcase-tiara.jpg",
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4582689112848_1_1770289505.jpg&width=400&height=400&square=1"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "CS.FRONT",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/pn/pd/3395400/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.animate-onlineshop.jp/pn/pd/3395400/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "09号",
+        "单人"
+      ],
+      "notes": null
+    },
+    {
+      "id": "suzuki-haruka-stand-tiara",
+      "name_ja": "鈴木ハルカ アクリルスタンド 馬剃天愛星",
+      "name_zh": "铃木遥香绘亚克力立牌",
+      "category": "acrylic_stand",
+      "campaign": "鈴木ハルカ イラスト",
+      "campaign_year": 2026,
+      "manufacturer": "鈴木ハルカ",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 1210,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/suzuki-haruka-stand-tiara.jpg",
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4571694210083_1_1762945511.jpg&width=400&height=400&square=1"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "鈴木ハルカ",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/pn/pd/3306412/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.animate-onlineshop.jp/pn/pd/3306412/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "铃木遥香",
+        "单人"
+      ],
+      "notes": null
+    },
+    {
+      "id": "eternorecit-stand-keyholder-tiara",
+      "name_ja": "アクリルスタンドキーホルダー 馬剃天愛星",
+      "name_zh": "Eterno Recit 亚克力立牌挂件",
+      "category": "acrylic_stand",
+      "campaign": "Eterno Récit",
+      "campaign_year": 2025,
+      "manufacturer": "Eterno Récit",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 990,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/eternorecit-stand-keyholder-tiara.jpg",
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=10141818_68ee15618ba36.jpg&width=400&height=400&square=1"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Eterno Récit",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/pn/pd/3277891/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.animate-onlineshop.jp/pn/pd/3277891/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "单人"
+      ],
+      "notes": null
+    },
+    {
+      "id": "eternorecit-keychain-tiara",
+      "name_ja": "アクリルキーホルダー 馬剃天愛星",
+      "name_zh": "Eterno Recit 亚克力挂件",
+      "category": "acrylic_keychain",
+      "campaign": "Eterno Récit",
+      "campaign_year": 2025,
+      "manufacturer": "Eterno Récit",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 880,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/eternorecit-keychain-tiara.jpg",
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4582636976783_1_1759982710.jpg&width=400&height=400&square=1"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Eterno Récit",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/pn/pd/3277899/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.animate-onlineshop.jp/pn/pd/3277899/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "单人"
+      ],
+      "notes": null
+    },
+    {
+      "id": "eternorecit-stickers",
+      "name_ja": "フレークシールセット 全8種",
+      "name_zh": "Eterno Recit 8款散装贴纸套装",
+      "category": "sticker",
+      "campaign": "Eterno Récit",
+      "campaign_year": 2025,
+      "manufacturer": "Eterno Récit",
+      "variant": "套装内含天爱星",
+      "sale_format": {
+        "type": "set",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 770,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/eternorecit-stickers.jpg",
+          "role": "lineup",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4582636976622_1_1759982706.jpg&width=400&height=400&square=1"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Eterno Récit",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/pn/pd/3277883/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.animate-onlineshop.jp/pn/pd/3277883/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "套装"
+      ],
+      "notes": null
+    },
+    {
+      "id": "eternorecit-trading-badge",
+      "name_ja": "トレーディング缶バッジ 全8種",
+      "name_zh": "Eterno Recit 随机徽章 天爱星款",
+      "category": "can_badge",
+      "campaign": "Eterno Récit",
+      "campaign_year": 2025,
+      "manufacturer": "Eterno Récit",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 8
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 550,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/eternorecit-trading-badge.jpg",
+          "role": "lineup",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4582636976516_1_1759982704.jpg&width=400&height=400&square=1"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Eterno Récit",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/pn/pd/3277872/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.animate-onlineshop.jp/pn/pd/3277872/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "随机"
+      ],
+      "notes": null
+    },
+    {
+      "id": "keyth-kemomimi-noren",
+      "name_ja": "のれん けもみみパーカー",
+      "name_zh": "兽耳连帽衫门帘",
+      "category": "fabric_goods",
+      "campaign": "けもみみパーカー",
+      "campaign_year": 2026,
+      "manufacturer": "Key-th / カーテン魂",
+      "variant": "集合图内含天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 3960,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/keyth-kemomimi-noren.jpg",
+          "role": "lineup",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/noren_makeine03_2.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Key-th / カーテン魂",
+          "phase": "general_sale",
+          "url": "https://www.curtain-damashii.com/item/noren_makeine03/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.curtain-damashii.com/item/noren_makeine03/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "兽耳",
+        "群像"
+      ],
+      "notes": null
+    },
+    {
+      "id": "keyth-kemomimi-tshirt",
+      "name_ja": "Tシャツ けもみみパーカー",
+      "name_zh": "兽耳连帽衫 T 恤",
+      "category": "apparel",
+      "campaign": "けもみみパーカー",
+      "campaign_year": 2026,
+      "manufacturer": "Key-th / カーテン魂",
+      "variant": "集合图内含天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 3300,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/keyth-kemomimi-tshirt.jpg",
+          "role": "lineup",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/tshirt_makeine03_1.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Key-th / カーテン魂",
+          "phase": "general_sale",
+          "url": "https://www.curtain-damashii.com/item/tshirt_makeine03/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.curtain-damashii.com/item/tshirt_makeine03/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "兽耳",
+        "群像"
+      ],
+      "notes": null
+    },
+    {
+      "id": "keyth-kemomimi-tote",
+      "name_ja": "トートバッグ けもみみパーカー",
+      "name_zh": "兽耳连帽衫托特包",
+      "category": "bag",
+      "campaign": "けもみみパーカー",
+      "campaign_year": 2026,
+      "manufacturer": "Key-th / カーテン魂",
+      "variant": "集合图内含天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 1980,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/keyth-kemomimi-tote.jpg",
+          "role": "lineup",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/totebag_makeine03_1.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Key-th / カーテン魂",
+          "phase": "general_sale",
+          "url": "https://www.curtain-damashii.com/item/totebag_makeine03/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.curtain-damashii.com/item/totebag_makeine03/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "兽耳",
+        "群像"
+      ],
+      "notes": null
+    },
+    {
+      "id": "keyth-kemomimi-rubbermat",
+      "name_ja": "ラバーマット けもみみパーカー",
+      "name_zh": "兽耳连帽衫橡胶桌垫",
+      "category": "stationery",
+      "campaign": "けもみみパーカー",
+      "campaign_year": 2026,
+      "manufacturer": "Key-th / カーテン魂",
+      "variant": "集合图内含天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 3300,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/keyth-kemomimi-rubbermat.jpg",
+          "role": "lineup",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/rubbermat_makeine03_1.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Key-th / カーテン魂",
+          "phase": "general_sale",
+          "url": "https://www.curtain-damashii.com/item/rubbermat_makeine03/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.curtain-damashii.com/item/rubbermat_makeine03/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "兽耳",
+        "群像"
+      ],
+      "notes": null
+    },
+    {
+      "id": "keyth-kemomimi-badge",
+      "name_ja": "トレーディング缶バッジ けもみみパーカー",
+      "name_zh": "兽耳连帽衫随机徽章 天爱星款",
+      "category": "can_badge",
+      "campaign": "けもみみパーカー",
+      "campaign_year": 2026,
+      "manufacturer": "Key-th / カーテン魂",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 8
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 495,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/keyth-kemomimi-badge.jpg",
+          "role": "lineup",
+          "source_url": "https://www.curtain-damashii.com/index_ag/wp/wp-content/uploads/badgebox_makeine03_1.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Key-th / カーテン魂",
+          "phase": "general_sale",
+          "url": "https://www.curtain-damashii.com/item/badgebox_makeine03/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.curtain-damashii.com/item/badgebox_makeine03/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "兽耳",
+        "群像"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tosyo-winter-badge",
+      "name_ja": "缶バッジコンプリートセット 冬制服",
+      "name_zh": "冬制服徽章全套（含天爱星）",
+      "category": "can_badge",
+      "campaign": "冬制服",
+      "campaign_year": 2025,
+      "manufacturer": "TOSYO / 郵便局物販サービス",
+      "variant": "13枚套装内含天爱星",
+      "sale_format": {
+        "type": "set",
+        "total_variants": 13
+      },
+      "spec": {
+        "size": "直径约56mm",
+        "material": "ブリキ"
+      },
+      "release_date": null,
+      "list_price_yen": 7150,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/tosyo-winter-badge.jpg",
+          "role": "lineup",
+          "source_url": "https://d1bdgtbdniw5kz.cloudfront.net/img/goods/L/CS9983402166.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "TOSYO / 郵便局物販サービス",
+          "phase": "general_sale",
+          "url": "https://www.shop.post.japanpost.jp/shop/g/gCS9983402166/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.shop.post.japanpost.jp/shop/g/gCS9983402166/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "冬制服",
+        "套装"
+      ],
+      "notes": "12款普通徽章各1枚，另附1枚随机闪粉特别版。"
+    },
+    {
+      "id": "tosyo-winter-b2-tapestry",
+      "name_ja": "B2横タペストリー 冬制服",
+      "name_zh": "冬制服 B2 横向挂毯",
+      "category": "tapestry",
+      "campaign": "冬制服",
+      "campaign_year": 2025,
+      "manufacturer": "TOSYO",
+      "variant": "集合图内含天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "约W728×H515mm",
+        "material": "Wスエード"
+      },
+      "release_date": null,
+      "list_price_yen": 3300,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/tosyo-winter-b2-tapestry.jpg",
+          "role": "lineup",
+          "source_url": "https://tosyo-goods.jp/cdn/shop/files/tbhtpmho0002_1.jpg?v=1763439332&width=1946"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "TOSYO",
+          "phase": "general_sale",
+          "url": "https://tosyo-goods.jp/products/tbhtpmho0002"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://tosyo-goods.jp/products/tbhtpmho0002",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "冬制服",
+        "群像"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-valentine-badge",
+      "name_ja": "ホログラムカンバッジ（ブラインド）バレンタイン ver.",
+      "name_zh": "情人节随机镭射徽章 天爱星款",
+      "category": "can_badge",
+      "campaign": "バレンタイン ver.",
+      "campaign_year": 2026,
+      "manufacturer": "コンテンツシード",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 6
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 660,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-valentine-badge.jpg",
+          "role": "lineup",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271413_69784997b48cb.jpg&width=1200&height=630"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/pn/pd/10870393/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/pn/pd/10870393/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "情人节",
+        "学生会"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-valentine-phone-stand",
+      "name_ja": "アクリルスマホスタンド 生徒会 バレンタイン ver.",
+      "name_zh": "情人节学生会亚克力手机架",
+      "category": "stationery",
+      "campaign": "バレンタイン ver.",
+      "campaign_year": 2026,
+      "manufacturer": "コンテンツシード",
+      "variant": "学生会集合图内含天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 1870,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-valentine-phone-stand.jpg",
+          "role": "lineup",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271415_69784a01b5f2d.jpg&width=1200&height=630"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/pn/pd/10870401/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/pn/pd/10870401/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "情人节",
+        "学生会"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-valentine-mini-art",
+      "name_ja": "ミニアクリルアート バレンタイン ver.",
+      "name_zh": "情人节迷你亚克力画",
+      "category": "acrylic_art",
+      "campaign": "バレンタイン ver.",
+      "campaign_year": 2026,
+      "manufacturer": "コンテンツシード",
+      "variant": "集合图内含天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 2640,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-valentine-mini-art.jpg",
+          "role": "lineup",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271417_69784a659b7d9.jpg&width=1200&height=630"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/pn/pd/10870408/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/pn/pd/10870408/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "情人节",
+        "学生会"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-valentine-clock",
+      "name_ja": "ミニアクリルクロック 生徒会 バレンタイン ver.",
+      "name_zh": "情人节学生会迷你亚克力时钟",
+      "category": "stationery",
+      "campaign": "バレンタイン ver.",
+      "campaign_year": 2026,
+      "manufacturer": "コンテンツシード",
+      "variant": "学生会集合图内含天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 3850,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-valentine-clock.jpg",
+          "role": "lineup",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271417_69784a833f973.jpg&width=1200&height=630"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/pn/pd/10870410/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/pn/pd/10870410/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "情人节",
+        "学生会"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-valentine-deskmat",
+      "name_ja": "ラバーデスクマット バレンタイン ver.",
+      "name_zh": "情人节橡胶桌垫",
+      "category": "stationery",
+      "campaign": "バレンタイン ver.",
+      "campaign_year": 2026,
+      "manufacturer": "コンテンツシード",
+      "variant": "集合图内含天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 4400,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-valentine-deskmat.jpg",
+          "role": "lineup",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271419_69784ad955c60.jpg&width=1200&height=630"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/pn/pd/10870417/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/pn/pd/10870417/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "情人节",
+        "学生会"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-valentine-blanket",
+      "name_ja": "超特大ブランケット 生徒会 バレンタイン ver.",
+      "name_zh": "情人节学生会超大毛毯",
+      "category": "fabric_goods",
+      "campaign": "バレンタイン ver.",
+      "campaign_year": 2026,
+      "manufacturer": "コンテンツシード",
+      "variant": "学生会集合图内含天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 7700,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-valentine-blanket.jpg",
+          "role": "lineup",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271419_69784af2c9e54.jpg&width=1200&height=630"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/pn/pd/10870419/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/pn/pd/10870419/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "情人节",
+        "学生会"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-valentine-mug",
+      "name_ja": "マグカップ バレンタイン ver.",
+      "name_zh": "情人节马克杯",
+      "category": "tableware",
+      "campaign": "バレンタイン ver.",
+      "campaign_year": 2026,
+      "manufacturer": "コンテンツシード",
+      "variant": "集合图内含天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 1980,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-valentine-mug.jpg",
+          "role": "lineup",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271419_69784aff7bbbf.jpg&width=1200&height=630"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/pn/pd/10870420/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/pn/pd/10870420/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "情人节",
+        "学生会"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-valentine-memorial-art",
+      "name_ja": "メモリアルアート バレンタイン ver.",
+      "name_zh": "情人节纪念画",
+      "category": "acrylic_art",
+      "campaign": "バレンタイン ver.",
+      "campaign_year": 2026,
+      "manufacturer": "コンテンツシード",
+      "variant": "集合图内含天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 16500,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-valentine-memorial-art.jpg",
+          "role": "lineup",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271427_69784cd633c6a.jpg&width=1200&height=630"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/pn/pd/10870427/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/pn/pd/10870427/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "情人节",
+        "学生会"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-shrine-tapestry-tiara",
+      "name_ja": "特大タペストリー 馬剃天愛星 巫女舞 ver.",
+      "name_zh": "巫女舞天爱星超大挂毯",
+      "category": "tapestry",
+      "campaign": "巫女舞 ver.",
+      "campaign_year": 2026,
+      "manufacturer": "コンテンツシード",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "H1700×W600mm",
+        "material": "スエード"
+      },
+      "release_date": null,
+      "list_price_yen": 8800,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-shrine-tapestry-tiara.jpg",
+          "role": "product",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/09101511_6aa24a1a96c51.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7943"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7943",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "巫女舞",
+        "学生会"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-shrine-memorial-art",
+      "name_ja": "メモリアルアート 巫女舞 ver.",
+      "name_zh": "巫女舞纪念画",
+      "category": "acrylic_art",
+      "campaign": "巫女舞 ver.",
+      "campaign_year": 2026,
+      "manufacturer": "コンテンツシード",
+      "variant": "集合图内含天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "外寸约340×430mm／画面A4",
+        "material": "樹脂"
+      },
+      "release_date": null,
+      "list_price_yen": 16500,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-shrine-memorial-art.jpg",
+          "role": "product",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/09101511_6aa24a2924392.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7943"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7943",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "巫女舞",
+        "学生会"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-shrine-badge",
+      "name_ja": "ホログラムカンバッジ（ブラインド）巫女舞 ver.",
+      "name_zh": "巫女舞随机镭射徽章 天爱星款",
+      "category": "can_badge",
+      "campaign": "巫女舞 ver.",
+      "campaign_year": 2026,
+      "manufacturer": "コンテンツシード",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 6
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 715,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-shrine-badge.jpg",
+          "role": "lineup",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/09101512_6aa24a39a4cec.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7943"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7943",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "巫女舞",
+        "学生会"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-shrine-woodstrap-tiara",
+      "name_ja": "木札ストラップ 馬剃天愛星 巫女舞 ver.",
+      "name_zh": "巫女舞天爱星木札挂件",
+      "category": "accessory",
+      "campaign": "巫女舞 ver.",
+      "campaign_year": 2026,
+      "manufacturer": "コンテンツシード",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "约6.5×5.2cm",
+        "material": "木"
+      },
+      "release_date": null,
+      "list_price_yen": 770,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-shrine-woodstrap-tiara.jpg",
+          "role": "product",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/09101513_6aa24a75562c1.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7943"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7943",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "巫女舞",
+        "学生会"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-shrine-stand-tiara",
+      "name_ja": "デカアクリルスタンド 馬剃天愛星 巫女舞 ver.",
+      "name_zh": "巫女舞天爱星大亚克力立牌",
+      "category": "acrylic_stand",
+      "campaign": "巫女舞 ver.",
+      "campaign_year": 2026,
+      "manufacturer": "コンテンツシード",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 2420,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-shrine-stand-tiara.jpg",
+          "role": "product",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/09101514_6aa24abc6eda7.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7943"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7943",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "巫女舞",
+        "学生会"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-shrine-mini-art",
+      "name_ja": "ミニアクリルアート 生徒会 巫女舞 ver.",
+      "name_zh": "巫女舞学生会迷你亚克力画",
+      "category": "acrylic_art",
+      "campaign": "巫女舞 ver.",
+      "campaign_year": 2026,
+      "manufacturer": "コンテンツシード",
+      "variant": "学生会集合图内含天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 3190,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-shrine-mini-art.jpg",
+          "role": "product",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/09101514_6aa24adc9ee9a.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7943"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7943",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "巫女舞",
+        "学生会"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-shrine-microfiber-tiara",
+      "name_ja": "マイクロファイバー 馬剃天愛星 巫女舞 ver.",
+      "name_zh": "巫女舞天爱星超细纤维布",
+      "category": "fabric_goods",
+      "campaign": "巫女舞 ver.",
+      "campaign_year": 2026,
+      "manufacturer": "コンテンツシード",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "マイクロファイバー"
+      },
+      "release_date": null,
+      "list_price_yen": 825,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-shrine-microfiber-tiara.jpg",
+          "role": "product",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/09101515_6aa24b16a2b22.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7943"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7943",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "巫女舞",
+        "学生会"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-shrine-deskmat",
+      "name_ja": "ラバーデスクマット 巫女舞 ver.",
+      "name_zh": "巫女舞橡胶桌垫",
+      "category": "stationery",
+      "campaign": "巫女舞 ver.",
+      "campaign_year": 2026,
+      "manufacturer": "コンテンツシード",
+      "variant": "集合图内含天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "ラバー"
+      },
+      "release_date": null,
+      "list_price_yen": 4400,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-shrine-deskmat.jpg",
+          "role": "product",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/09101516_6aa24b232a40e.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7943"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7943",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "巫女舞",
+        "学生会"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-pale-badge",
+      "name_ja": "ホログラムカンバッジ（ブラインド）PALE TONE series TSUWABUKI FES ver.",
+      "name_zh": "PALE TONE TSUWABUKI FES 随机镭射徽章 天爱星款",
+      "category": "can_badge",
+      "campaign": "PALE TONE TSUWABUKI FES",
+      "campaign_year": 2026,
+      "manufacturer": "コンテンツシード",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 7
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": 660,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-pale-badge.jpg",
+          "role": "lineup",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06181247_6a336a4d08052.jpg&width=1200&height=630"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/pn/pd/10907440/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/pn/pd/10907440/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "PALE TONE",
+        "随机"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-pale-tapestry-tiara",
+      "name_ja": "特大タペストリー PALE TONE series 馬剃天愛星 TSUWABUKI FES ver.",
+      "name_zh": "PALE TONE TSUWABUKI FES 天爱星超大挂毯",
+      "category": "tapestry",
+      "campaign": "PALE TONE TSUWABUKI FES",
+      "campaign_year": 2026,
+      "manufacturer": "コンテンツシード",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "H1700×W600mm",
+        "material": "スエード"
+      },
+      "release_date": null,
+      "list_price_yen": 8800,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-pale-tapestry-tiara.jpg",
+          "role": "product",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06181317_6a33714449f5b.jpg&width=1200&height=630"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/pn/pd/10907471/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/pn/pd/10907471/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "PALE TONE",
+        "单人"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-fes-keychain-tiara",
+      "name_ja": "SNS風アクリルキーホルダー 馬剃天愛星 TSUWABUKI FES ver.",
+      "name_zh": "TSUWABUKI FES 天爱星 SNS 风亚克力挂件",
+      "category": "acrylic_keychain",
+      "campaign": "TSUWABUKI FES",
+      "campaign_year": 2025,
+      "manufacturer": "コンテンツシード",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "H90×W60mm",
+        "material": "アクリル・金属"
+      },
+      "release_date": null,
+      "list_price_yen": 1375,
+      "official_status": "official",
+      "verification": "seller_claim",
+      "images": [
+        {
+          "path": "images/items/thechara-fes-keychain-tiara.jpg",
+          "role": "product",
+          "source_url": "https://img.amiami.jp/images/product/main/252/GOODS-04638182.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638182"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638182",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "TSUWABUKI FES",
+        "单人"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-fes-holo-stand-tiara",
+      "name_ja": "ホログラムデカアクリルスタンド 馬剃天愛星 TSUWABUKI FES ver.",
+      "name_zh": "TSUWABUKI FES 天爱星镭射大亚克力立牌",
+      "category": "acrylic_stand",
+      "campaign": "TSUWABUKI FES",
+      "campaign_year": 2025,
+      "manufacturer": "コンテンツシード",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 2750,
+      "official_status": "official",
+      "verification": "seller_claim",
+      "images": [
+        {
+          "path": "images/items/thechara-fes-holo-stand-tiara.jpg",
+          "role": "product",
+          "source_url": "https://img.amiami.jp/images/product/main/252/GOODS-04638193.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638193"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638193",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "TSUWABUKI FES",
+        "单人"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-fes-board-tiara",
+      "name_ja": "超特大ダイカットアクリルボード 馬剃天愛星 TSUWABUKI FES ver.",
+      "name_zh": "TSUWABUKI FES 天爱星超大异形亚克力板",
+      "category": "acrylic_art",
+      "campaign": "TSUWABUKI FES",
+      "campaign_year": 2025,
+      "manufacturer": "コンテンツシード",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 5500,
+      "official_status": "official",
+      "verification": "seller_claim",
+      "images": [
+        {
+          "path": "images/items/thechara-fes-board-tiara.jpg",
+          "role": "product",
+          "source_url": "https://img.amiami.jp/images/product/main/252/GOODS-04638200.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638200"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638200",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "TSUWABUKI FES",
+        "单人"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-fes-microfiber-tiara",
+      "name_ja": "マイクロファイバー 馬剃天愛星 TSUWABUKI FES ver.",
+      "name_zh": "TSUWABUKI FES 天爱星超细纤维布",
+      "category": "fabric_goods",
+      "campaign": "TSUWABUKI FES",
+      "campaign_year": 2025,
+      "manufacturer": "コンテンツシード",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "200×200mm",
+        "material": "マイクロファイバー"
+      },
+      "release_date": null,
+      "list_price_yen": 770,
+      "official_status": "official",
+      "verification": "seller_claim",
+      "images": [
+        {
+          "path": "images/items/thechara-fes-microfiber-tiara.jpg",
+          "role": "product",
+          "source_url": "https://img.amiami.jp/images/product/main/252/GOODS-04638207.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638207"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638207",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "TSUWABUKI FES",
+        "单人"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-fes-tapestry-tiara",
+      "name_ja": "特大タペストリー 馬剃天愛星 TSUWABUKI FES ver.",
+      "name_zh": "TSUWABUKI FES 天爱星超大挂毯",
+      "category": "tapestry",
+      "campaign": "TSUWABUKI FES",
+      "campaign_year": 2025,
+      "manufacturer": "コンテンツシード",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "H1700×W600mm",
+        "material": "スエード"
+      },
+      "release_date": null,
+      "list_price_yen": 7700,
+      "official_status": "official",
+      "verification": "seller_claim",
+      "images": [
+        {
+          "path": "images/items/thechara-fes-tapestry-tiara.jpg",
+          "role": "product",
+          "source_url": "https://img.amiami.jp/images/product/main/252/GOODS-04638216.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638216"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04638216",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "TSUWABUKI FES",
+        "单人"
+      ],
+      "notes": null
+    },
+    {
+      "id": "amnibus-nonhoi-chibi-stand",
+      "name_ja": "トレーディングちびキャラ 植物＆アトラクションver. アクリルスタンド",
+      "name_zh": "丰桥动物园 Q 版植物与游乐设施随机立牌 天爱星款",
+      "category": "acrylic_stand",
+      "campaign": "のんほいパーク",
+      "campaign_year": 2025,
+      "manufacturer": "アルマビアンカ",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 16
+      },
+      "spec": {
+        "size": "最大约64×60mm",
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 880,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/amnibus-nonhoi-chibi-stand.jpg",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8499/16064-8499-03384b3555440a9ef95313855aa462e2-1350x1500.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アルマビアンカ",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "丰桥动物园",
+        "Q版"
+      ],
+      "notes": null
+    },
+    {
+      "id": "amnibus-nonhoi-chibi-keychain",
+      "name_ja": "トレーディングちびキャラ 植物＆アトラクションver. アクリルキーホルダー",
+      "name_zh": "丰桥动物园 Q 版植物与游乐设施随机挂件 天爱星款",
+      "category": "acrylic_keychain",
+      "campaign": "のんほいパーク",
+      "campaign_year": 2025,
+      "manufacturer": "アルマビアンカ",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 16
+      },
+      "spec": {
+        "size": "最大约65×60mm",
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 715,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/amnibus-nonhoi-chibi-keychain.jpg",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8499/16064-8499-d256a6424d919730be15438b496dbb54-1350x1500.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アルマビアンカ",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "丰桥动物园",
+        "Q版"
+      ],
+      "notes": null
+    },
+    {
+      "id": "amnibus-nonhoi-chibi-badge",
+      "name_ja": "トレーディングちびキャラ 植物＆アトラクションver. グリッター缶バッジ",
+      "name_zh": "丰桥动物园 Q 版植物与游乐设施随机闪粉徽章 天爱星款",
+      "category": "can_badge",
+      "campaign": "のんほいパーク",
+      "campaign_year": 2025,
+      "manufacturer": "アルマビアンカ",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 16
+      },
+      "spec": {
+        "size": "直径约56mm",
+        "material": "紙・ブリキ"
+      },
+      "release_date": null,
+      "list_price_yen": 605,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/amnibus-nonhoi-chibi-badge.jpg",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8499/16064-8499-a6c62dd54caeaea125f83afde42cce2c-1350x1500.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アルマビアンカ",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "丰桥动物园",
+        "Q版"
+      ],
+      "notes": null
+    },
+    {
+      "id": "amnibus-nonhoi-chibi-sticker",
+      "name_ja": "トレーディングちびキャラ 植物＆アトラクションver. ダイカットステッカー",
+      "name_zh": "丰桥动物园 Q 版植物与游乐设施随机异形贴纸 天爱星款",
+      "category": "sticker",
+      "campaign": "のんほいパーク",
+      "campaign_year": 2025,
+      "manufacturer": "アルマビアンカ",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 16
+      },
+      "spec": {
+        "size": "最大约90×89mm",
+        "material": "紙・PP"
+      },
+      "release_date": null,
+      "list_price_yen": 550,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/amnibus-nonhoi-chibi-sticker.jpg",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8499/16064-8499-fa92cbae559cf87344f1dc1de57b301f-1350x1500.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アルマビアンカ",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "丰桥动物园",
+        "Q版"
+      ],
+      "notes": null
+    },
+    {
+      "id": "amnibus-nonhoi-chibi-mug",
+      "name_ja": "ちびキャラ アトラクションver. マグカップ",
+      "name_zh": "丰桥动物园 Q 版游乐设施马克杯",
+      "category": "tableware",
+      "campaign": "のんほいパーク",
+      "campaign_year": 2025,
+      "manufacturer": "アルマビアンカ",
+      "variant": "集合图内含天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "直径约82×H95mm",
+        "material": "陶器"
+      },
+      "release_date": null,
+      "list_price_yen": 1980,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/amnibus-nonhoi-chibi-mug.jpg",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8499/16064-8499-b88f22e3fbc32f789cc1fb3aa22cdf77-1350x1500.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アルマビアンカ",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "丰桥动物园",
+        "Q版"
+      ],
+      "notes": null
+    },
+    {
+      "id": "amnibus-jr2-trading-stand",
+      "name_ja": "描き下ろし 駅員ver. 第2弾 トレーディングアクリルスタンド",
+      "name_zh": "JR 东海第二弹新绘随机亚克力立牌 天爱星款",
+      "category": "acrylic_stand",
+      "campaign": "推し旅 駅員ver. 第2弾",
+      "campaign_year": 2026,
+      "manufacturer": "アルマビアンカ",
+      "variant": "全款式/集合图内含天爱星",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 16
+      },
+      "spec": {
+        "size": "最大约70×48mm",
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 880,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/amnibus-jr2-trading-stand.jpg",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8501/16064-8501-06af6e9e07dd87a67cb0fa1b8b69df77-1350x1500.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アルマビアンカ",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "JR东海",
+        "推し旅"
+      ],
+      "notes": null
+    },
+    {
+      "id": "amnibus-jr2-acrylic-card",
+      "name_ja": "描き下ろし 駅員ver. 第2弾 トレーディングアクリルカード",
+      "name_zh": "JR 东海第二弹新绘随机亚克力卡 天爱星款",
+      "category": "card",
+      "campaign": "推し旅 駅員ver. 第2弾",
+      "campaign_year": 2026,
+      "manufacturer": "アルマビアンカ",
+      "variant": "全款式/集合图内含天爱星",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 9
+      },
+      "spec": {
+        "size": "约70×55mm",
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 715,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/amnibus-jr2-acrylic-card.jpg",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8501/16064-8501-7c1cd79bf7a6a1df4c2ec57819d10247-1350x1500.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アルマビアンカ",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "JR东海",
+        "推し旅"
+      ],
+      "notes": null
+    },
+    {
+      "id": "amnibus-jr2-glitter-badge",
+      "name_ja": "描き下ろし 駅員ver. 第2弾 トレーディンググリッター缶バッジ",
+      "name_zh": "JR 东海第二弹新绘随机闪粉徽章 天爱星款",
+      "category": "can_badge",
+      "campaign": "推し旅 駅員ver. 第2弾",
+      "campaign_year": 2026,
+      "manufacturer": "アルマビアンカ",
+      "variant": "全款式/集合图内含天爱星",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 9
+      },
+      "spec": {
+        "size": "直径约56mm",
+        "material": "紙・ブリキ"
+      },
+      "release_date": null,
+      "list_price_yen": 605,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/amnibus-jr2-glitter-badge.jpg",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8501/16064-8501-7f79795a179c3a20834e583429d5d58c-1350x1500.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アルマビアンカ",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "JR东海",
+        "推し旅"
+      ],
+      "notes": null
+    },
+    {
+      "id": "amnibus-jr2-instant-card",
+      "name_ja": "駅員ver. 第2弾 トレーディングインスタントカメラ風イラストカード",
+      "name_zh": "JR 东海第二弹随机拍立得风卡片 天爱星款",
+      "category": "card",
+      "campaign": "推し旅 駅員ver. 第2弾",
+      "campaign_year": 2026,
+      "manufacturer": "アルマビアンカ",
+      "variant": "全款式/集合图内含天爱星",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 16
+      },
+      "spec": {
+        "size": "约80×50mm",
+        "material": "紙"
+      },
+      "release_date": null,
+      "list_price_yen": 275,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/amnibus-jr2-instant-card.jpg",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8501/16064-8501-52cbeb35cc7db10c05b7d54182ca3a89-1350x1500.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アルマビアンカ",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "JR东海",
+        "推し旅"
+      ],
+      "notes": null
+    },
+    {
+      "id": "amnibus-jr2-deskmat-b",
+      "name_ja": "描き下ろし 駅員ver. 第2弾 マルチデスクマット B",
+      "name_zh": "JR 东海第二弹新绘多用途桌垫 B",
+      "category": "stationery",
+      "campaign": "推し旅 駅員ver. 第2弾",
+      "campaign_year": 2026,
+      "manufacturer": "アルマビアンカ",
+      "variant": "全款式/集合图内含天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "约60×35cm",
+        "material": "ポリエステル・ラバー"
+      },
+      "release_date": null,
+      "list_price_yen": 3960,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/amnibus-jr2-deskmat-b.jpg",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8501/16064-8501-37c426da3e01d672e55fde3716073360-1350x1500.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アルマビアンカ",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "JR东海",
+        "推し旅"
+      ],
+      "notes": null
+    },
+    {
+      "id": "amnibus-jr2-diorama-b",
+      "name_ja": "描き下ろし 駅員ver. 第2弾 アクリルジオラマ B",
+      "name_zh": "JR 东海第二弹新绘亚克力场景 B",
+      "category": "acrylic_art",
+      "campaign": "推し旅 駅員ver. 第2弾",
+      "campaign_year": 2026,
+      "manufacturer": "アルマビアンカ",
+      "variant": "全款式/集合图内含天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "约23×18cm",
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 3850,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/amnibus-jr2-diorama-b.jpg",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8501/16064-8501-ac4b6269fc06389c414ffa3e75a8975b-1350x1500.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アルマビアンカ",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "JR东海",
+        "推し旅"
+      ],
+      "notes": null
+    },
+    {
+      "id": "amnibus-jr2-postcards",
+      "name_ja": "描き下ろし 駅員ver. 第2弾 ポストカード3枚セット",
+      "name_zh": "JR 东海第二弹新绘明信片 3 枚套装",
+      "category": "card",
+      "campaign": "推し旅 駅員ver. 第2弾",
+      "campaign_year": 2026,
+      "manufacturer": "アルマビアンカ",
+      "variant": "全款式/集合图内含天爱星",
+      "sale_format": {
+        "type": "set",
+        "total_variants": 3
+      },
+      "spec": {
+        "size": "约148×100mm",
+        "material": "紙"
+      },
+      "release_date": null,
+      "list_price_yen": 550,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/amnibus-jr2-postcards.jpg",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8501/16064-8501-8738b20e6dd3a533983fa35680c4b42a-1350x1500.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アルマビアンカ",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "JR东海",
+        "推し旅"
+      ],
+      "notes": null
+    },
+    {
+      "id": "amnibus-jr2-chibi-stand",
+      "name_ja": "駅員ver. 第2弾 ちびキャラ トレーディングアクリルスタンド",
+      "name_zh": "JR 东海第二弹 Q 版随机亚克力立牌 天爱星款",
+      "category": "acrylic_stand",
+      "campaign": "推し旅 駅員ver. 第2弾",
+      "campaign_year": 2026,
+      "manufacturer": "アルマビアンカ",
+      "variant": "全款式/集合图内含天爱星",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 6
+      },
+      "spec": {
+        "size": "最大约68×54mm",
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 880,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/amnibus-jr2-chibi-stand.jpg",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8501/16064-8501-0541ee4cea7f2ae8bb627cdb66688c2f-1350x1500.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アルマビアンカ",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "JR东海",
+        "推し旅"
+      ],
+      "notes": null
+    },
+    {
+      "id": "amnibus-jr2-chibi-keychain",
+      "name_ja": "駅員ver. 第2弾 ちびキャラ トレーディングアクリルキーホルダー",
+      "name_zh": "JR 东海第二弹 Q 版随机亚克力挂件 天爱星款",
+      "category": "acrylic_keychain",
+      "campaign": "推し旅 駅員ver. 第2弾",
+      "campaign_year": 2026,
+      "manufacturer": "アルマビアンカ",
+      "variant": "全款式/集合图内含天爱星",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 8
+      },
+      "spec": {
+        "size": "最大约69×42mm",
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 715,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/amnibus-jr2-chibi-keychain.jpg",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8501/16064-8501-09a10740ac8c9e12c927eff1583c5c8c-1350x1500.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アルマビアンカ",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "JR东海",
+        "推し旅"
+      ],
+      "notes": null
+    },
+    {
+      "id": "amnibus-jr2-chibi-badge",
+      "name_ja": "駅員ver. 第2弾 ちびキャラ トレーディンググリッター缶バッジ",
+      "name_zh": "JR 东海第二弹 Q 版随机闪粉徽章 天爱星款",
+      "category": "can_badge",
+      "campaign": "推し旅 駅員ver. 第2弾",
+      "campaign_year": 2026,
+      "manufacturer": "アルマビアンカ",
+      "variant": "全款式/集合图内含天爱星",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 6
+      },
+      "spec": {
+        "size": "直径约56mm",
+        "material": "紙・ブリキ"
+      },
+      "release_date": null,
+      "list_price_yen": 605,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/amnibus-jr2-chibi-badge.jpg",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8501/16064-8501-4a73560eac3375ab76ca366d2f64beb1-1350x1500.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アルマビアンカ",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "JR东海",
+        "推し旅"
+      ],
+      "notes": null
+    },
+    {
+      "id": "amnibus-jr2-chibi-mug",
+      "name_ja": "駅員ver. 第2弾 ちびキャラ マグカップ",
+      "name_zh": "JR 东海第二弹 Q 版马克杯",
+      "category": "tableware",
+      "campaign": "推し旅 駅員ver. 第2弾",
+      "campaign_year": 2026,
+      "manufacturer": "アルマビアンカ",
+      "variant": "全款式/集合图内含天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "直径约82×H95mm",
+        "material": "陶器"
+      },
+      "release_date": null,
+      "list_price_yen": 1980,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/amnibus-jr2-chibi-mug.jpg",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8501/16064-8501-921c77b1cffab4aeae894e2179ae3609-1350x1500.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アルマビアンカ",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "JR东海",
+        "推し旅"
+      ],
+      "notes": null
+    },
+    {
+      "id": "amnibus-jr2-chibi-stickers",
+      "name_ja": "駅員ver. 第2弾 ちびキャラ フレークシール",
+      "name_zh": "JR 东海第二弹 Q 版散装贴纸",
+      "category": "sticker",
+      "campaign": "推し旅 駅員ver. 第2弾",
+      "campaign_year": 2026,
+      "manufacturer": "アルマビアンカ",
+      "variant": "全款式/集合图内含天爱星",
+      "sale_format": {
+        "type": "set",
+        "total_variants": 16
+      },
+      "spec": {
+        "size": null,
+        "material": "紙・PP"
+      },
+      "release_date": null,
+      "list_price_yen": 1100,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/amnibus-jr2-chibi-stickers.jpg",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8501/16064-8501-9cb6965d4594a61425e613cb40d9271f-1350x1500.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アルマビアンカ",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "JR东海",
+        "推し旅"
+      ],
+      "notes": null
+    },
+    {
+      "id": "weiss-mki-w126-083",
+      "name_ja": "生徒会副会長 馬剃天愛星 U",
+      "name_zh": "Weiss Schwarz 学生会副会长 马剃天爱星（U）",
+      "category": "trading_card",
+      "campaign": "ヴァイスシュヴァルツ ブースターパック",
+      "campaign_year": 2025,
+      "manufacturer": "ブシロード",
+      "variant": "MKI/W126-083 / U",
+      "sale_format": {
+        "type": "random",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-06-27",
+      "list_price_yen": null,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/weiss-mki-w126-083.jpg",
+          "role": "product",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=7015238_1.jpg&width=1200&height=630"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ブシロード",
+          "phase": "general_sale",
+          "url": "https://ws-tcg.com/cardlist/?cardno=MKI%2FW126-083&l="
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ws-tcg.com/cardlist/?cardno=MKI%2FW126-083&l=",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "Weiss Schwarz",
+        "U"
+      ],
+      "notes": "收录于随机补充包；不把二手单卡行情记作官方定价。"
+    },
+    {
+      "id": "weiss-mki-w126-083s",
+      "name_ja": "生徒会副会長 馬剃天愛星 SR",
+      "name_zh": "Weiss Schwarz 学生会副会长 马剃天爱星（SR）",
+      "category": "trading_card",
+      "campaign": "ヴァイスシュヴァルツ ブースターパック",
+      "campaign_year": 2025,
+      "manufacturer": "ブシロード",
+      "variant": "MKI/W126-083S / SR",
+      "sale_format": {
+        "type": "random",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-06-27",
+      "list_price_yen": null,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/weiss-mki-w126-083s.jpg",
+          "role": "product",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=7015158_1.jpg&width=1200&height=630"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ブシロード",
+          "phase": "general_sale",
+          "url": "https://ws-tcg.com/cardlist/?cardno=MKI%2FW126-083S&l="
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ws-tcg.com/cardlist/?cardno=MKI%2FW126-083S&l=",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "Weiss Schwarz",
+        "SR"
+      ],
+      "notes": "收录于随机补充包；不把二手单卡行情记作官方定价。"
+    },
+    {
+      "id": "contentseed-sns-keychain-tiara",
+      "name_ja": "SNS風アクリルキーホルダー 馬剃天愛星",
+      "name_zh": "SNS 风天爱星亚克力挂件",
+      "category": "acrylic_keychain",
+      "campaign": "コンテンツシード 2025",
+      "campaign_year": 2025,
+      "manufacturer": "コンテンツシード",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "约60×89mm",
+        "material": "アクリル・金属"
+      },
+      "release_date": "2025-04",
+      "list_price_yen": 1320,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/contentseed-sns-keychain-tiara.jpg",
+          "role": "product",
+          "source_url": "https://img.amiami.jp/images/product/main/251/GOODS-04595965.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04595965"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04595965",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "单人"
+      ],
+      "notes": null
+    },
+    {
+      "id": "contentseed-diorama-hibari-tiara",
+      "name_ja": "アクリルジオラマ 放虎原ひばり＆馬剃天愛星",
+      "name_zh": "放虎原羽、马剃天爱星亚克力场景",
+      "category": "acrylic_art",
+      "campaign": "コンテンツシード 2025",
+      "campaign_year": 2025,
+      "manufacturer": "コンテンツシード",
+      "variant": "放虎原羽＆马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "约H166×W142mm（组装时）",
+        "material": "アクリル"
+      },
+      "release_date": "2025-04",
+      "list_price_yen": 2750,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/contentseed-diorama-hibari-tiara.jpg",
+          "role": "product",
+          "source_url": "https://img.amiami.jp/images/product/main/251/GOODS-04595970.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04595970"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04595970",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "学生会",
+        "双人"
+      ],
+      "notes": null
+    },
+    {
+      "id": "hobbystock-trading-badge-vol3",
+      "name_ja": "トレーディング缶バッジ vol.3",
+      "name_zh": "随机徽章 vol.3 天爱星款",
+      "category": "can_badge",
+      "campaign": "トレーディング缶バッジ vol.3",
+      "campaign_year": 2025,
+      "manufacturer": "ホビーストック",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 12
+      },
+      "spec": {
+        "size": "直径约57mm",
+        "material": "紙・スチール"
+      },
+      "release_date": "2025-04",
+      "list_price_yen": 440,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/hobbystock-trading-badge-vol3.jpg",
+          "role": "lineup",
+          "source_url": "https://img.amiami.jp/images/product/main/251/GOODS-04592880.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ホビーストック",
+          "phase": "general_sale",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04592880"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04592880",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "随机"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ensky-snapmide-tiara",
+      "name_ja": "負けヒロインが多すぎる！ スナップマイド",
+      "name_zh": "Snapmide 随机卡片 天爱星款",
+      "category": "card",
+      "campaign": "スナップマイド",
+      "campaign_year": 2025,
+      "manufacturer": "エンスカイ",
+      "variant": "48款中含天爱星单人/双人图",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 48
+      },
+      "spec": {
+        "size": "约H87×W54mm",
+        "material": "紙"
+      },
+      "release_date": "2025-01",
+      "list_price_yen": 275,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/ensky-snapmide-tiara.jpg",
+          "role": "lineup",
+          "source_url": "https://www.1999.co.jp/itbig113/11138260a.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "エンスカイ",
+          "phase": "general_sale",
+          "url": "https://www.1999.co.jp/11138260"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.1999.co.jp/11138260",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "随机",
+        "拍立得风"
+      ],
+      "notes": null
+    },
+    {
+      "id": "csfront-01-acrylic-card",
+      "name_ja": "アクリルカード /01 全9種",
+      "name_zh": "CS.FRONT /01 随机亚克力卡 天爱星款",
+      "category": "card",
+      "campaign": "CS.FRONT /01",
+      "campaign_year": 2026,
+      "manufacturer": "CS.FRONT",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 9
+      },
+      "spec": {
+        "size": "约90×55mm",
+        "material": "アクリル・鉄"
+      },
+      "release_date": "2026-04",
+      "list_price_yen": 660,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/csfront-01-acrylic-card.jpg",
+          "role": "lineup",
+          "source_url": "https://makeshop-multi-images.akamaized.net/csshop/itemimages/000000007380_vTKRKP3.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "CS.FRONT",
+          "phase": "general_sale",
+          "url": "https://www.crysto.jp/view/item/000000007380"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.crysto.jp/view/item/000000007380",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "CS.FRONT",
+        "随机"
+      ],
+      "notes": null
+    },
+    {
+      "id": "csfront-01-acrylic-board",
+      "name_ja": "アクリルボード -技- /01 集合",
+      "name_zh": "CS.FRONT /01 集合亚克力板",
+      "category": "acrylic_art",
+      "campaign": "CS.FRONT /01",
+      "campaign_year": 2026,
+      "manufacturer": "CS.FRONT",
+      "variant": "集合图内含天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "210×148mm",
+        "material": "アクリル・鉄"
+      },
+      "release_date": "2026-04",
+      "list_price_yen": 3850,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/csfront-01-acrylic-board.jpg",
+          "role": "lineup",
+          "source_url": "https://makeshop-multi-images.akamaized.net/csshop/itemimages/000000007381_0efgr5Z.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "CS.FRONT",
+          "phase": "general_sale",
+          "url": "https://www.crysto.jp/view/item/000000007381"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.crysto.jp/view/item/000000007381",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "CS.FRONT",
+        "群像"
+      ],
+      "notes": null
+    },
+    {
+      "id": "csfront-01-stand-keyholder",
+      "name_ja": "まるっとスタンドキーホルダー /01 全9種",
+      "name_zh": "CS.FRONT /01 随机竖牌挂件 天爱星款",
+      "category": "acrylic_keychain",
+      "campaign": "CS.FRONT /01",
+      "campaign_year": 2026,
+      "manufacturer": "CS.FRONT",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 9
+      },
+      "spec": {
+        "size": "约65×65mm",
+        "material": "アクリル・真鍮・鉄"
+      },
+      "release_date": "2026-04",
+      "list_price_yen": 880,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/csfront-01-stand-keyholder.jpg",
+          "role": "lineup",
+          "source_url": "https://makeshop-multi-images.akamaized.net/csshop/itemimages/000000007409_WgEA5e5.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "CS.FRONT",
+          "phase": "general_sale",
+          "url": "https://www.crysto.jp/view/item/000000007409"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.crysto.jp/view/item/000000007409",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "CS.FRONT",
+        "随机"
+      ],
+      "notes": null
+    },
+    {
+      "id": "csfront-01-badge",
+      "name_ja": "缶バッジ /01 全9種",
+      "name_zh": "CS.FRONT /01 随机徽章 天爱星款",
+      "category": "can_badge",
+      "campaign": "CS.FRONT /01",
+      "campaign_year": 2026,
+      "manufacturer": "CS.FRONT",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 9
+      },
+      "spec": {
+        "size": "直径约56mm",
+        "material": "ブリキ・PET・紙"
+      },
+      "release_date": "2026-04",
+      "list_price_yen": 440,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/csfront-01-badge.jpg",
+          "role": "lineup",
+          "source_url": "https://makeshop-multi-images.akamaized.net/csshop/itemimages/000000007411_YRNnj54.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "CS.FRONT",
+          "phase": "general_sale",
+          "url": "https://www.crysto.jp/view/item/000000007411"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.crysto.jp/view/item/000000007411",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "CS.FRONT",
+        "随机"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-fes-badge",
+      "name_ja": "カンバッジ（ブラインド）TSUWABUKI FES ver.",
+      "name_zh": "TSUWABUKI FES 随机徽章 天爱星款",
+      "category": "can_badge",
+      "campaign": "TSUWABUKI FES",
+      "campaign_year": 2025,
+      "manufacturer": "コンテンツシード",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 7
+      },
+      "spec": {
+        "size": null,
+        "material": "ラバー"
+      },
+      "release_date": null,
+      "list_price_yen": 550,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-fes-badge.jpg",
+          "role": "lineup",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06031134_683e5f1fd50ee.jpg&width=1200&height=630"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/pn/pd/10805297/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/pn/pd/10805297/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "TSUWABUKI FES",
+        "学生会"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-fes-clock-student-council",
+      "name_ja": "ミニアクリルクロック 生徒会 TSUWABUKI FES ver.",
+      "name_zh": "TSUWABUKI FES 学生会迷你亚克力时钟",
+      "category": "stationery",
+      "campaign": "TSUWABUKI FES",
+      "campaign_year": 2025,
+      "manufacturer": "コンテンツシード",
+      "variant": "学生会集合图内含天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "约H100×W140mm",
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": 3850,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-fes-clock-student-council.jpg",
+          "role": "lineup",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06031139_683e607ca5f6d.jpg&width=1200&height=630"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/pn/pd/10805308/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/pn/pd/10805308/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "TSUWABUKI FES",
+        "学生会"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-fes-deskmat-student-council",
+      "name_ja": "ラバーデスクマット 生徒会 TSUWABUKI FES ver.",
+      "name_zh": "TSUWABUKI FES 学生会橡胶桌垫",
+      "category": "stationery",
+      "campaign": "TSUWABUKI FES",
+      "campaign_year": 2025,
+      "manufacturer": "コンテンツシード",
+      "variant": "学生会集合图内含天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "350×600mm",
+        "material": "ラバー"
+      },
+      "release_date": null,
+      "list_price_yen": 3850,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-fes-deskmat-student-council.jpg",
+          "role": "lineup",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06031152_683e635b56268.jpg&width=1200&height=630"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/pn/pd/10805331/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/pn/pd/10805331/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "TSUWABUKI FES",
+        "学生会"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-fes-mini-art-student-council",
+      "name_ja": "ミニアクリルアート 生徒会 TSUWABUKI FES ver.",
+      "name_zh": "TSUWABUKI FES 学生会迷你亚克力画",
+      "category": "acrylic_art",
+      "campaign": "TSUWABUKI FES",
+      "campaign_year": 2025,
+      "manufacturer": "コンテンツシード",
+      "variant": "学生会集合图内含天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "约128×182mm",
+        "material": "アクリル・ビス"
+      },
+      "release_date": null,
+      "list_price_yen": 2530,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-fes-mini-art-student-council.jpg",
+          "role": "lineup",
+          "source_url": "https://collabo-cafe.com/wp-content/uploads/14ab0291f8d1fbbcdf8fdc59affa4c0e.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.1999.co.jp/11213023"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.1999.co.jp/11213023",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "TSUWABUKI FES",
+        "学生会"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-fes-tshirt-student-council",
+      "name_ja": "Tシャツ 生徒会 TSUWABUKI FES ver.",
+      "name_zh": "TSUWABUKI FES 学生会 T 恤",
+      "category": "apparel",
+      "campaign": "TSUWABUKI FES",
+      "campaign_year": 2025,
+      "manufacturer": "コンテンツシード",
+      "variant": "学生会集合图内含天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "XL：衣长约780・肩宽约530・袖长约240mm",
+        "material": "綿"
+      },
+      "release_date": null,
+      "list_price_yen": 4400,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-fes-tshirt-student-council.jpg",
+          "role": "lineup",
+          "source_url": "https://collabo-cafe.com/wp-content/uploads/ffaeb23d4616dd1434ccf148392924a8.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.1999.co.jp/11213046"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.1999.co.jp/11213046",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "TSUWABUKI FES",
+        "学生会"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-pale-mini-art-student-council",
+      "name_ja": "ミニアクリルアート PALE TONE series 生徒会 TSUWABUKI FES ver.",
+      "name_zh": "PALE TONE 学生会迷你亚克力画",
+      "category": "acrylic_art",
+      "campaign": "PALE TONE TSUWABUKI FES",
+      "campaign_year": 2026,
+      "manufacturer": "コンテンツシード",
+      "variant": "学生会/集合图内含天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "约128×182mm",
+        "material": "アクリル・ビス"
+      },
+      "release_date": "2026-09",
+      "list_price_yen": 2640,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-pale-mini-art-student-council.jpg",
+          "role": "lineup",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06181300_6a336d6315094.jpg&width=1200&height=630"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/pn/pd/10907456/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/pn/pd/10907456/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "PALE TONE",
+        "学生会"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-pale-deskmat",
+      "name_ja": "ラバーデスクマット PALE TONE series TSUWABUKI FES ver.",
+      "name_zh": "PALE TONE TSUWABUKI FES 橡胶桌垫",
+      "category": "stationery",
+      "campaign": "PALE TONE TSUWABUKI FES",
+      "campaign_year": 2026,
+      "manufacturer": "コンテンツシード",
+      "variant": "学生会/集合图内含天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "600×350mm",
+        "material": "ラバー"
+      },
+      "release_date": "2026-09",
+      "list_price_yen": 4400,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-pale-deskmat.jpg",
+          "role": "lineup",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=06181302_6a336de36cf50.jpg&width=1200&height=630"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/pn/pd/10907457/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/pn/pd/10907457/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "PALE TONE",
+        "学生会"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-pale-memorial-art",
+      "name_ja": "メモリアルアート PALE TONE series 生徒会 TSUWABUKI FES ver.",
+      "name_zh": "PALE TONE 学生会纪念画",
+      "category": "acrylic_art",
+      "campaign": "PALE TONE TSUWABUKI FES",
+      "campaign_year": 2026,
+      "manufacturer": "コンテンツシード",
+      "variant": "学生会/集合图内含天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "外寸约340×430mm／画面A4",
+        "material": "樹脂・PVC・紙"
+      },
+      "release_date": "2026-09",
+      "list_price_yen": 16500,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-pale-memorial-art.jpg",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/69812/838/69812-838-99c51f3d27ed2806d76b3fed34e43dc0-800x800.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "コンテンツシード",
+          "phase": "general_sale",
+          "url": "https://www.gamers.co.jp/pn/pd/10907473/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/pn/pd/10907473/",
+          "type": "seller",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "PALE TONE",
+        "学生会"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thechara-shrine-lottery-figure-tiara",
+      "name_ja": "A賞 特大アクリルフィギュア 馬剃天愛星 巫女舞 ver.",
+      "name_zh": "巫女舞天爱星特大亚克力竖像（抽奖奖品）",
+      "category": "acrylic_stand",
+      "campaign": "アフター京まふ",
+      "campaign_year": 2026,
+      "manufacturer": "ゲーマーズ / コンテンツシード",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 6
+      },
+      "spec": {
+        "size": "约30cm",
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": null,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-shrine-lottery-figure-tiara.jpg",
+          "role": "reference",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/09101514_6aa24abc6eda7.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ゲーマーズ",
+          "phase": "lottery_prize",
+          "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7943"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7943",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "巫女舞",
+        "抽奖",
+        "非卖品"
+      ],
+      "notes": "每购买或预订内金3,000日元可参加一次抽奖；A赏图案可在库存范围内选择。"
+    },
+    {
+      "id": "thechara-valentine-lottery-figure-tiara",
+      "name_ja": "A賞 特大アクリルフィギュア 馬剃天愛星 バレンタイン ver.",
+      "name_zh": "情人节天爱星特大亚克力竖像（抽奖奖品）",
+      "category": "acrylic_stand",
+      "campaign": "バレンタイン ver.",
+      "campaign_year": 2026,
+      "manufacturer": "ゲーマーズ / コンテンツシード",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 6
+      },
+      "spec": {
+        "size": "约30cm",
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": null,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-valentine-lottery-figure-tiara.jpg",
+          "role": "reference",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271417_69784a5236669.jpg&width=1200&height=630"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ゲーマーズ",
+          "phase": "lottery_prize",
+          "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7160"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7160",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "情人节",
+        "抽奖",
+        "非卖品"
+      ],
+      "notes": "店铺抽奖A赏；图片为同系列天爱星角色图参考。"
+    },
+    {
+      "id": "thechara-valentine-bromide-tiara",
+      "name_ja": "購入特典 ブロマイド 馬剃天愛星 バレンタイン ver.",
+      "name_zh": "情人节天爱星照片卡（购入特典）",
+      "category": "card",
+      "campaign": "バレンタイン ver.",
+      "campaign_year": 2026,
+      "manufacturer": "ゲーマーズ / コンテンツシード",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 7
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": null,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-valentine-bromide-tiara.jpg",
+          "role": "reference",
+          "source_url": "https://tc-gamers.techorus-cdn.com/resize_image/resize_image.php?image=01271417_69784a5236669.jpg&width=1200&height=630"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "ゲーマーズ",
+          "phase": "purchase_bonus",
+          "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7160"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7160",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "情人节",
+        "购入特典",
+        "非卖品"
+      ],
+      "notes": "每购买活动商品3,000日元随机赠送1枚；图片为同系列角色图参考。"
+    },
+    {
+      "id": "neogate-yumekawa-heart-card-tiara",
+      "name_ja": "ハート型ミニカード 馬剃天愛星 ゆめかわver.",
+      "name_zh": "梦幻可爱天爱星心形迷你卡（通贩预订特典）",
+      "category": "card",
+      "campaign": "ゆめかわフェア in アニメイト",
+      "campaign_year": 2026,
+      "manufacturer": "NEO GATE / アニメイト",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 5
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2026-10-10",
+      "list_price_yen": null,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/neogate-yumekawa-heart-card-tiara.webp",
+          "role": "lineup",
+          "source_url": "https://www.neogate.jp/wp-content/uploads/makeine_goods_campaign.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アニメイト通販",
+          "phase": "reservation_bonus",
+          "url": "https://www.neogate.jp/makeine_goods/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.neogate.jp/makeine_goods/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "梦幻可爱",
+        "预订特典",
+        "非卖品"
+      ],
+      "notes": "通贩事前预订期间，每满1,100日元随机赠送1枚。"
+    },
+    {
+      "id": "neogate-yumekawa-bookmark-tiara",
+      "name_ja": "特製しおり 馬剃天愛星 ゆめかわver.",
+      "name_zh": "梦幻可爱天爱星特制书签（店铺购入特典）",
+      "category": "card",
+      "campaign": "ゆめかわフェア in アニメイト",
+      "campaign_year": 2026,
+      "manufacturer": "NEO GATE / アニメイト",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 5
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2026-10-10",
+      "list_price_yen": null,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/neogate-yumekawa-bookmark-tiara.webp",
+          "role": "lineup",
+          "source_url": "https://www.neogate.jp/wp-content/uploads/makeine_goods_campaign2.webp"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アニメイト",
+          "phase": "purchase_bonus",
+          "url": "https://www.neogate.jp/makeine_goods/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.neogate.jp/makeine_goods/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "梦幻可爱",
+        "购入特典",
+        "非卖品"
+      ],
+      "notes": "实体店活动期间，每满1,100日元随机赠送1枚。"
+    },
+    {
+      "id": "toyohashi-townwalk-badge-kitchen-ninjin",
+      "name_ja": "豊橋まちあるきスタンプ オリジナル缶バッジ キッチンにんじん（馬剃天愛星）",
+      "name_zh": "丰桥街步印章 Kitchen Ninjin 天爱星原创徽章",
+      "category": "can_badge",
+      "campaign": "豊橋まちあるきスタンプ",
+      "campaign_year": 2025,
+      "manufacturer": "シャイニングヒロイン実行委員会",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "店头限定原创规格",
+        "material": "ブリキ等"
+      },
+      "release_date": null,
+      "list_price_yen": 400,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/toyohashi-townwalk-badge-kitchen-ninjin.jpg",
+          "role": "product",
+          "source_url": "https://image.jimcdn.com/app/cms/image/transf/dimension%3D236x10000%3Aformat%3Djpg/path/s154f533fae7a44ca/image/i15ebdee472b79074/version/1757924601/image.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "キッチンにんじん",
+          "phase": "local_sale",
+          "url": "https://makeine-toyohashi.jimdofree.com/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://makeine-toyohashi.jimdofree.com/",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "丰桥",
+        "地方限定",
+        "街步"
+      ],
+      "notes": "天爱星印章图案对应店铺为キッチンにんじん，徽章在对应店铺售卖。"
+    },
+    {
+      "id": "thechara-pale-bromide-tiara",
+      "name_ja": "ご購入者様特典 ブロマイド 馬剃天愛星 PALE TONE series",
+      "name_zh": "PALE TONE 天爱星照片卡（购入特典）",
+      "category": "card",
+      "campaign": "PALE TONE TSUWABUKI FES",
+      "campaign_year": 2026,
+      "manufacturer": "コンテンツシード / 有楽町マルイ",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 9
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": null,
+      "list_price_yen": null,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-pale-bromide-tiara.jpg",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/69812/838/69812-838-9fcfb15edd2c0b3aceb407036f7268fc-2000x1414.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "有楽町マルイ",
+          "phase": "purchase_bonus",
+          "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "PALE TONE",
+        "购入特典",
+        "非卖品"
+      ],
+      "notes": "活动期间店铺每购买3,000日元随机赠送1枚；官方特典图确认共9款并含天爱星。"
+    },
+    {
+      "id": "thechara-pale-lottery-figure-tiara",
+      "name_ja": "抽選会 特大アクリルスタンド 馬剃天愛星 PALE TONE series",
+      "name_zh": "PALE TONE 天爱星特大亚克力竖牌（抽奖奖品）",
+      "category": "acrylic_stand",
+      "campaign": "PALE TONE TSUWABUKI FES",
+      "campaign_year": 2026,
+      "manufacturer": "コンテンツシード / 有楽町マルイ",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 7
+      },
+      "spec": {
+        "size": "最大约H300mm",
+        "material": "アクリル"
+      },
+      "release_date": null,
+      "list_price_yen": null,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/thechara-pale-lottery-figure-tiara.jpg",
+          "role": "lineup",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/69812/838/69812-838-9fcfb15edd2c0b3aceb407036f7268fc-2000x1414.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "有楽町マルイ",
+          "phase": "lottery_prize",
+          "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "PALE TONE",
+        "抽奖",
+        "非卖品"
+      ],
+      "notes": "活动购买者可参加特大竖牌抽奖；官方图确认全7款并含天爱星。"
+    },
+    {
+      "id": "gagaga-summer-2026-scented-bookmark-tiara",
+      "name_ja": "夏のガガガ文庫フェア2026 香り付き特製しおり 馬剃天愛星",
+      "name_zh": "2026 夏日 GAGAGA 天爱星香味书签（咖啡牛奶味）",
+      "category": "card",
+      "campaign": "夏のガガ文庫フェア2026",
+      "campaign_year": 2026,
+      "manufacturer": "小学館 / ガガガ文庫",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "书签",
+        "material": "紙・香料"
+      },
+      "release_date": "2026-07-17",
+      "list_price_yen": null,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/gagaga-summer-2026-scented-bookmark-tiara.jpg",
+          "role": "lineup",
+          "source_url": "https://pbs.twimg.com/media/HLedDB1asAAZORD.jpg?name=orig"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "活动对象书店",
+          "phase": "purchase_bonus",
+          "url": "https://x.com/makeine0718/status/2070446988127256952"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://x.com/makeine0718/status/2070446988127256952",
+          "type": "official",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "GAGAGA",
+        "书店特典",
+        "非卖品",
+        "咖啡牛奶"
+      ],
+      "notes": "原作官方账号确认：天爱星款为咖啡牛奶香，背面含作者新写文字。"
+    },
+    {
+      "id": "melonbooks-novel-fes-2025-metal-poster-tiara",
+      "name_ja": "メタルポスター 馬剃天愛星 第16回メロンブックスノベル祭り～2025 Summer～",
+      "name_zh": "Melonbooks 第16回小说祭天爱星 A3 金属海报",
+      "category": "poster",
+      "campaign": "第16回メロンブックスノベル祭り",
+      "campaign_year": 2025,
+      "manufacturer": "メロンブックス",
+      "variant": "马剃天爱星",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "A3（420×297mm）",
+        "material": "金属・印刷"
+      },
+      "release_date": "2025-08-01",
+      "list_price_yen": null,
+      "official_status": "official",
+      "verification": "seller_claim",
+      "images": [
+        {
+          "path": "images/items/melonbooks-novel-fes-2025-metal-poster-tiara.jpg",
+          "role": "product",
+          "source_url": "https://www.suruga-ya.jp/database/pics_light/game/561915607.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "メロンブックス",
+          "phase": "point_reward",
+          "url": "https://www.suruga-ya.jp/product/detail/561915607"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/561915607",
+          "type": "secondary",
+          "checked_at": "2026-10-01"
+        }
+      ],
+      "tags": [
+        "Melonbooks",
+        "积分兑换",
+        "限定品"
+      ],
+      "notes": "原活动页已下线；规格、日期与角色名由骏河屋和 Goods Republic 的独立目录交叉确认。"
+    }
+  ]
+}
