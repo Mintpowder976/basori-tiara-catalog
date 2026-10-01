@@ -146,7 +146,7 @@
     const statusClass = state.status === 'owned' ? ' is-owned' : state.status === 'wanted' ? ' is-wanted' : '';
     const random = item.sale_format?.type === 'random';
     const imageMarkup = image
-      ? `<img loading="lazy" src="${escapeHtml(image.path)}" alt="${escapeHtml(item.name_zh)}">`
+      ? `<img loading="lazy" decoding="async" src="${escapeHtml(image.thumbnail_path || image.path)}" alt="${escapeHtml(item.name_zh)}">`
       : '';
     const tags = (item.tags || []).slice(0, 3).map(tag => `<span class="tag">${escapeHtml(tag)}</span>`).join('');
     const verifyClass = item.verification === 'confirmed_image' ? ' image' : '';
@@ -256,7 +256,7 @@
   function detailTemplate(item) {
     const state = itemState(item.id);
     const image = item.images?.[0];
-    const imageMarkup = image ? `<img src="${escapeHtml(image.path)}" alt="${escapeHtml(item.name_zh)}">` : '<span>资料图待补</span>';
+    const imageMarkup = image ? `<img decoding="async" src="${escapeHtml(image.path)}" alt="${escapeHtml(item.name_zh)}">` : '<span>资料图待补</span>';
     const facts = [
       ['品类', CATEGORY_LABELS[item.category] || item.category],
       ['联动 / 系列', item.campaign],

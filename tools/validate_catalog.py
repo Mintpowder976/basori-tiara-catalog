@@ -48,6 +48,7 @@ def main() -> int:
     data = json.loads(CATALOG_PATH.read_text(encoding="utf-8"))
     errors: list[str] = []
     ids: set[str] = set()
+    thumbnail_count = 0
 
     if data.get("schema_version") != 1:
         errors.append("schema_version must be 1")
@@ -80,6 +81,14 @@ def main() -> int:
             if not valid_url(image.get("source_url")):
                 errors.append(f"{prefix}: invalid image source URL")
 
+            thumbnail_path = ROOT / image.get("thumbnail_path", "")
+            if not image.get("thumbnail_path") or not thumbnail_path.is_file():
+                errors.append(f"{prefix}: thumbnail not found")
+            elif thumbnail_path.stat().st_size < 512 or not thumbnail_path.read_bytes()[:12].startswith(b"RIFF"):
+                errors.append(f"{prefix}: invalid WebP thumbnail: {thumbnail_path.relative_to(ROOT)}")
+            else:
+                thumbnail_count += 1
+
         for source in item.get("sources", []):
             if not valid_url(source.get("url")):
                 errors.append(f"{prefix}: invalid source URL")
@@ -91,7 +100,10 @@ def main() -> int:
         return 1
 
     with_images = sum(bool(item["images"]) for item in data["items"])
-    print(f"OK: {len(ids)} items, {with_images} with local images, all IDs unique")
+    print(
+        f"OK: {len(ids)} items, {with_images} with local images, "
+        f"{thumbnail_count} thumbnails, all IDs unique"
+    )
     return 0
 
 

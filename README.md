@@ -17,7 +17,8 @@ python3 -m http.server 4173
 | --- | --- | --- |
 | 制品目录 | `data/catalog.json` | 商品名称、分类、价格、发售方式、来源等公共资料 |
 | 数据格式 | `data/catalog.schema.json` | `catalog.json` 的 JSON Schema 约束 |
-| 商品图片 | `images/items/` | 每件商品的本地图片，文件路径记录在商品的 `images` 字段中 |
+| 商品原图 | `images/items/` | 详情页使用的本地图片，路径记录在 `images[].path` |
+| 列表缩略图 | `images/thumbs/` | 列表页使用的 WebP 小图，路径记录在 `images[].thumbnail_path` |
 | 个人收藏 | 浏览器 `localStorage` | 键名为 `basori-tiara-catalog-collection-v1`，保存“我有/想要”、数量、入手价和备注 |
 
 个人收藏不会写回 `catalog.json`。它只存在于当前浏览器和当前站点地址下，可以通过页面上的“导出”按钮备份为 `basori-tiara-collection.json`。
@@ -108,6 +109,12 @@ python3 tools/enrich_catalog.py --download
 ```
 
 第二条命令会把缺失的商品图归档到 `images/items/`。数据来源包括版权方或厂商页面、官方新闻稿、官方卡牌数据库，以及 Animate、Gamers、AmiAmi 等授权销售页；仅能从销售页确认的条目会标成 `seller_claim`。
+
+新增或替换原图后，重新生成列表缩略图：
+
+```bash
+python3 tools/generate_thumbnails.py
+```
 
 ## 校验
 
